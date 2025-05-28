@@ -1,6 +1,6 @@
 <div style="font-size: 12px; line-height: 2;">
 
-# [问题1] ：等离子体中的荷电粒子产生的电场的方程，其解与德拜长度的关系，以及库仑对数
+# 3[问题1] ：等离子体中的荷电粒子产生的电场的方程，其解与德拜长度的关系，以及库仑对数
 
 ## 等离子体中荷电粒子电场、德拜长度与库仑对数 (プラズマ中荷電粒子電場、デバイ長とクーロン対数)
 
@@ -32,7 +32,7 @@
     *   $b_0$: 最小碰撞参数 (Min. impact parameter / 最小衝突径数), e.g., $b_0 \approx \frac{e^2}{4\pi\varepsilon_0 k_B T_e}$.
 
 
-# [问题2] 均质等离子体中入射了以 $E(\mathbf{r}, t) = E_0 \exp[i(\mathbf{k} \cdot \mathbf{r} - \omega t)]$ 表示的电磁波。求等离子体的介电常数 $\varepsilon(k, \omega)$ 和电磁波的色散关系。讨论电磁波能在等离子体中传播的条件。
+# 3[问题2] 均质等离子体中入射了以 $E(\mathbf{r}, t) = E_0 \exp[i(\mathbf{k} \cdot \mathbf{r} - \omega t)]$ 表示的电磁波。求等离子体的介电常数 $\varepsilon(k, \omega)$ 和电磁波的色散关系。讨论电磁波能在等离子体中传播的条件。
 
 ## 等离子体介电常数、色散关系与传播 (プラズマの誘電率、分散関係と伝播)
 
@@ -124,7 +124,7 @@ $\frac{\omega^2 - \omega_p^2}{c^2} \ge 0 \implies \omega^2 \ge \omega_p^2$.
 *   电子-离子碰撞 (e-i collision / 電子イオン衝突) $\nu_{ei} \propto n_i (\frac{\ln \Lambda}{T_e^2}) T_e^{1/2} \propto n_i \frac{\ln \Lambda}{T_e^{3/2}}$.
 *   **结论 (Conclusion / 結論):** $\nu_{ei} \propto T_e^{-3/2}$.
 
-# [问题5] 电子的流体方程式を用いて、ボルツマン関係を導出しなさい。また、電子音波の分散関係を導出しなさい。
+# 1[问题5] 电子的流体方程式を用いて、ボルツマン関係を導出しなさい。また、電子音波の分散関係を導出しなさい。
 (使用电子的流体方程，推导玻尔兹曼关系。另外，推导电子声波的色散关系。)
 
 ## 电子流体：玻尔兹曼关系与电子声波 (e-Fluid: Boltzmann & e-Acoustic Wave / 電子流体：ボルツマンと電子音波)
@@ -152,7 +152,7 @@ $\frac{\omega^2 - \omega_p^2}{c^2} \ge 0 \implies \omega^2 \ge \omega_p^2$.
     *   $\omega_{pe}^2 = \frac{n_{e0} e^2}{m_e \varepsilon_0}$ (电子等离子体频率 / e-plasma freq. / 電子プラズマ周波数).
     *   $v_{the}^2 = \frac{\gamma_e k_B T_e}{m_e}$ (电子热速度 / e-thermal vel. / 電子熱速度).
 
-# [问题6] 解 MHD 方程式以说明阿尔文波 (Alfvén wave) 的色散关系。此处，压力的效果可以忽略。解弦的波动方程并讨论其关系。
+# 3[问题6] 解 MHD 方程式以说明阿尔文波 (Alfvén wave) 的色散关系。此处，压力的效果可以忽略。解弦的波动方程并讨论其关系。
 
 ## 阿尔文波与弦波 (Alfvén & String Waves / アルフベン波と弦の波)
 
@@ -182,7 +182,7 @@ $\frac{\omega^2 - \omega_p^2}{c^2} \ge 0 \implies \omega^2 \ge \omega_p^2$.
 *   **类比 (Analogy / アナロジー):** 磁力线 (Field lines / 磁力線) $\leftrightarrow$ 弦 (String / 弦); 磁张力 ($B_0^2/\mu_0$) (Mag. tension / 磁気張力) $\leftrightarrow$ 弦张力 ($T$); $\rho_{m0} \leftrightarrow \lambda$.
 *   **物理 (Physics / 物理):** 磁力线为介质 (Field lines as medium / 磁力線が媒体)、等离子体供惯性 (Plasma provides inertia / プラズマが慣性を提供)。
 
-# [问题7] 托卡马克中为了约束等离子体，需要在等离子体中通入电流。这是为什么？
+# 2[问题7] 托卡马克中为了约束等离子体，需要在等离子体中通入电流。这是为什么？
 
 ## 托卡马克等离子体电流必要性 (Tokamak Current Need / トカマク電流の必要性)
 
