@@ -184,22 +184,9 @@ $\frac{\omega^2 - \omega_p^2}{c^2} \ge 0 \implies \omega^2 \ge \omega_p^2$.
 
 # 2[问题7] 托卡马克中为了约束等离子体，需要在等离子体中通入电流。这是为什么？
 
-## 托卡马克等离子体电流必要性 (Tokamak Current Need / トカマク電流の必要性)
+In a **Tokamak** (トカマク, 托卡马克), **plasma current** (プラズマ電流, 等离子体电流) is vital. It generates a **poloidal magnetic field** (ポロイダル磁場, 极向磁场).
 
-**目的 (Purpose / 目的):** 磁约束 (Magnetic Confinement / 磁気閉じ込め).
-
-1.  **产生 $B_p$ (Generate $B_p$ / $B_p$ 生成):**
-    环向电流 ($I_p$) (Toroidal Current / トロイダル電流) $\xrightarrow{\text{Ampere}}$ 极向磁场 ($B_p$) (Poloidal Field / ポロイダル磁場).
-
-2.  **形成螺旋磁面 (Form Helical Surfaces / 螺旋磁気面形成):**
-    $B_p + B_T$ (外加环向场 / External Toroidal Field / 外部トロイダル磁場) $\implies$ **螺旋磁场/磁面 (Helical Field/Surfaces / 螺旋磁場/磁気面)**.
-
-3.  **螺旋磁面作用 (Helical Surfaces Function / 螺旋磁気面の役割):**
-    *   **约束 (Confinement / 閉じ込め):** 粒子沿磁面运动 (Particles follow surfaces / 粒子は磁気面に沿って運動).
-    *   **减漂移 (Reduce Drift / ドリフト低減):** “短路” (Short-circuit / 短絡) 由 $\nabla B$/曲率漂移 (curvature drift / 曲率ドリフト) 引起的电荷分离 (charge separation / 電荷分離), 减小 $E \times B$ 损失.
-    *   **平衡 (Equilibrium / 平衡):** 洛伦兹力 ($\mathbf{J}_p \times \mathbf{B}_p$) (Lorentz force / ローレンツ力) 平衡压力梯度 ($\nabla p$) (Balances pressure gradient / 圧力勾配と平衡).
-
-**核心 (Core / 核心):** $I_p \Rightarrow B_p \Rightarrow$ 螺旋结构 (Helical Structure / 螺旋構造) $\Rightarrow$ 约束与平衡 (Confinement & Equilibrium / 閉じ込めと平衡).
+This field, combined with the **toroidal magnetic field** (トロイダル磁場, 环向磁场), creates **helical magnetic field lines** (らせん状磁力線, 螺旋磁力线). These helical lines counteract particle drifts, enabling **stable confinement** (安定閉じ込め, 稳定约束) of the plasma.
 
 # [问题8] フォッカープランクの式を導出し、衝突拡散の表式について説明しなさい。
 (推导福克-普朗克方程，并说明碰撞扩散的表达式。)

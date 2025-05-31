@@ -1,0 +1,37 @@
+//YOKOGAWA ASCII FILE FORMAT
+
+$PublicInfo
+FormatVersion     1.01
+Model             WE7275
+Endian            Ltl
+DataFormat        Trace
+GroupNumber       1
+TraceTotalNumber  1
+DataOffset        0
+
+$Group1
+TraceNumber       1
+BlockNumber       1
+TraceName         CH9             
+BlockSize         600000          
+VResolution       7.665772E-005   
+VOffset           -6.899195E-004  
+VDataType         IS2             
+VUnit             V               
+VPlusOverData     6533            
+VMinusOverData    -6514           
+VIllegalData      NAN             
+VMaxData          6532            
+VMinData          -6513           
+HResolution       1.000000E-006   
+HOffset           -0.000000E+000  
+HUnit             s               
+Date              2024/04/22      
+Time              15:56:19        
+
+$PrivateInfo
+PTraceName        CH1             
+PLinearMode       OFF             
+PLinearSlope      1.000000E+000   
+PLinearIntercept  0.000000E+000   
+PLinearUnit       ?               
