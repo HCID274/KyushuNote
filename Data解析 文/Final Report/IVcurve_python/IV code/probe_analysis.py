@@ -62,31 +62,33 @@ def linear_fit(vp,a,b):  #To fit linear function. except saturation value, gragh
 def te_fit(vp,a,b):
     return   vp/a + b  #Because Te is reciprocal number of gradient electron current
 
-def floating(sweep,raw):
+def floating(sweep, raw, verbose=True): # 1. 添加 verbose=True 参数
     """
     This function returns floating poteintial
 
     Parameters
     ----------
-
     sweep : 1D-array
         Time series of sweep voltage
     raw : 1D-array
         Time series of probe current
+    verbose : bool, optional
+        If True, prints the calculated floating potential. Default is True.
 
     Returns
     -------
     floating : float
        floating potential[V]
     """
-    ind=np.argmin(np.abs(raw-0.0)) #Floating potential is point of zero plasma current
-    vf=sweep[ind] # voltage that become point of zero plasma current
+    ind = np.argmin(np.abs(raw - 0.0)) # Floating potential is point of zero plasma current
+    vf = sweep[ind] # voltage that become point of zero plasma current
     
-    print()
-    print()
-    print()
-    print()  
-    print("Vf = {} [V]".format(vf)) 
+    if verbose: # 2. 根据 verbose 的值来决定是否打印
+        print() # 这几个空 print 看起来是为了格式化输出，可以保留在 verbose 条件内或移出
+        print()
+        print()
+        print()  
+        print("Vf = {} [V]".format(vf)) 
     return vf
 
 
