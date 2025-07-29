@@ -1,0 +1,3487 @@
+﻿Water Air Soil Pollut (2025) 236:73
+https://doi.org/10.1007/s11270-024-07702-4
+I
+Check for
+Water Quality, Air Pollution, and Climate
+Change: Investigating the Environmental Impacts
+of Industrialization and Urbanization
+Vivek Saxena 〇
+Received: 6 August 2024 / Accepted: 4 December 2024 / Published online: 3 January 2025
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2025
+Abstract Human activities profoundly impact both
+biotic and abiotic components of ecosystems. Pol-
+lution, defined as the introduction of harmful sub-
+stances into the environment, poses a significant
+threat to all living organisms. Even minimal concen-
+trations of pollutants—whether in gaseous, liquid, or
+solid form—can disrupt ecosystem health. The advent
+of the Industrial Revolution marked the beginning
+of large-scale pollutant emissions, leading to severe
+repercussions for both human health and the envi-
+ronment. While the Industrial Revolution facilitated
+numerous advancements in services, science, and
+societal progress, it also introduced substantial envi-
+ronmental challenges. Today, the unprecedented lev-
+els of industrialization and urbanization have ampli-
+fied global environmental concerns. Human-induced
+air pollution alone accounts for approximately 9
+million deaths annually, presenting a critical public
+health threat. This research examines the environ-
+mental contamination arising from human activities,
+with a focus on water quality, air quality, and climate
+change. It aims to provide a comprehensive under-
+standing of the environmental impacts of human
+actions, highlighting the pressing global issue of
+water pollution, particularly in developing countries.
+The study underscores the crucial role of effective
+V. Saxena (*)
+Department of Electrical & Computer Engineering, ABES
+Engineering College, Ghaziabad, UP, India
+e-mail: vvksaxena1234@gmail.com
+wastewater treatment in achieving sustainable devel-
+opment and explores how such measures can mitigate
+the impacts of climate change.
+Keywords Air Quality - Atmosphere - Human
+Health - Pollution - Water Quality
+1	Introduction
+The "environment" refers to the complex and diverse
+settings in which a vast array of species, such as
+humans, animals, bacteria, and plants, live and inter-
+act. This environment is composed of several funda-
+mental elements, each of which is indispensable for
+the sustenance of life and the preservation of eco-
+logical balance. These elements include land, which
+provides a foundation and resources for terrestrial
+life; water, which is essential for all forms of life and
+plays a key role in various biological and chemical
+processes; and the atmosphere, which offers the air
+we breathe and helps regulate the Earth's climate.
+Together, these components create a dynamic and
+interconnected system that supports the diverse forms
+of life on our planet and maintains the natural equilib-
+rium necessary for their survival and well-being.
+Pollutants, however, are defined as substances
+that are introduced into the environment in quantities
+exceeding their natural levels. These excess pollutants
+can disrupt the delicate balance of ecosystems and
+lead to detrimental effects on both the environment
+必 Springer
+73 Page 2 of 40
+Water Air Soil Pollut (2025) 236:73
+and the species that depend on it Briffa et al., 2020.
+The significant influence of human activities on the
+environment has led to extensive research focusing on
+the dynamic interactions between humans and their
+physical surroundings. These studies aim to under-
+stand how human actions affects the environment and
+how these impacts can be managed or mitigated to
+ensure sustainable development Peng & Jia, 2023
+The environment is composed of both biotic and
+abiotic components. Biotic components include all
+living organisms, from the smallest microorgan-
+isms to the largest animals and plants. These living
+beings interact with each other and their surround-
+ings in intricate ways. Abiotic components, on the
+other hand, consist of non-living elements such as the
+atmosphere, lithosphere (the earth's crust and upper
+mantle), and hydrosphere (all the water bodies on
+earth). These non-living elements provide the essen-
+tial resources and conditions needed for life to thrive
+Huggett, 2023.
+Understanding the interrelationship between biotic
+and abiotic components is crucial for environmen-
+tal conservation and management. The interactions
+between living organisms and their non-living envi-
+ronment form the basis of ecosystems, which are vital
+for maintaining the earth's biodiversity and the over-
+all health of the planet. Despite their harmful effects,
+human activities, contaminating water, air, and the
+environment at large Tumolo et al., 2020 produce
+toxic substances in solid, liquid, or gaseous forms.
+Over the past century, rapid industrial growth has
+improved living standards by offering a variety of ser-
+vices. However, this development has also led to the
+excessive exploitation of natural resources, increasing
+pollution levels. This phenomenon has been widely
+acknowledged as having a great deal of utility, but
+it also has significant drawbacks Crane-Kramer &
+Buckberry, 2023.
+Pollution introduces a wide array of pollutants such
+as inorganic, organic, and organometallic chemicals,
+gases, nanoparticles, viruses, and radioactive isotopes
+into the environment, posing a recognized environ-
+mental hazard. These contaminants, discharged into
+the atmosphere, water bodies, and the overall envi-
+ronment, present a substantial risk to human health
+Aliyu & Amadu, 2017. In developing nations striving
+for economic advancement, water pollution emerges
+as a significant issue stemming from diverse sources
+such as industrial discharges, inadequate waste
+management, agricultural runoff, oil spills, sewage,
+and wastewater Lin et al., 2022. This pollution leads
+to diminished oxygen levels, biodiversity loss, habi-
+tat destruction, and disruptions in aquatic ecosystems,
+profoundly affecting fish and other aquatic organisms.
+Consequently, aquatic populations suffer, and ecosys-
+tems face degradation risks.
+Contaminated water also spreads waterborne dis-
+eases such as cholera, hepatitis, and dysentery, and
+has long-term effects on growth, development, repro-
+duction, and cancer rates Alao et al., 2023. Addition-
+ally, economic losses from reduced tourism revenue
+and water cleanup costs result from pollution. To
+achieve sustainable development, strategies to pre-
+vent water pollution and effectively treat wastewater
+before disposal must be implemented Ayejoto et al.,
+2023. Given the constant movement of air, it can eas-
+ily become contaminated and transfer pollutants from
+one place to another.
+In our pursuit of sustainable development, it is
+imperative to implement targeted solutions that effec-
+tively reduce water pollution. Central to this effort
+is the deployment of efficient wastewater treatment
+systems, crucial for safeguarding our water resources
+from contamination Silva, 2023. Historical research
+from the 1980s uncovered a startling revelation: sul-
+phur dioxide emissions, stemming from coal com-
+bustion in the Ohio Valley, travelled unprecedented
+distances via wind currents. This phenomenon led
+to the formation of acid rain, which had far-reaching
+consequences, affecting extensive regions of the east-
+ern United States and Canada, stretching thousands of
+kilometres beyond its origin in the Ohio Valley Gren-
+nfelt et al., 2020. A comparable scenario unfolds in
+Asia, where powerful winds carry industrial pollut-
+ants from China across the vast expanse of the Gobi
+Desert. These pollutants accumulate during their
+journey, resulting in the formation of substantial yel-
+low dust storms that adversely affect regions such as
+Japan and the Korean Peninsula. These storms not
+only diminish visibility but also pose significant risks
+to human health Agbasi et al., 2023.
+Furthermore, stagnant air conditions created by
+high-pressure systems exacerbate air pollution. This
+stagnation allows pollutants such as emissions from
+factories and vehicle exhaust to concentrate at hazard-
+ous levels, increasing the likelihood of carbon monox-
+ide poisoning Hayasaka et al., 2019. The "greenhouse
+effect" refers to the natural process by which certain
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 3 of 40 73
+gases trap heat within the Earth's atmosphere, thereby
+maintaining a temperature conducive to life Ayejoto
+et al., 2022. However, since the Industrial Revolution
+in the mid-nineteenth century, human activities have
+significantly intensified this effect, leading to global
+warming. This anthropogenic climate change has dis-
+rupted natural cycles and weather patterns, resulting
+in severe consequences such as prolonged droughts,
+elevated temperatures, rising sea levels, increased
+incidences of flooding, and more frequent and intense
+storms Adamo et al., 2021, Ayejoto & Egbueri, 2023.
+In addition to human activities, the ocean plays
+a crucial role in climate dynamics by absorbing and
+redistributing heat, carbon, and freshwater across the
+globe. Accurate simulations of oceanic processes are
+essential for understanding how these dynamics inter-
+act with and respond to human-induced changes in
+the atmosphere Ezugwu et al., 2019. Furthermore, the
+global movement of people has had profound effects
+on ecosystems and has contributed to shifts in climate
+patterns Semenza & Ebi, 2019.
+The primary objective of this review is to explore
+the environmental impacts of human activities, par-
+ticularly focusing on water and air quality as well as
+climate change. Our study seeks to provide a compre-
+hensive understanding of how human actions influ-
+ence the environment and underscore the critical role
+of effective wastewater treatment in promoting sus-
+tainable development and mitigating climate change
+impacts. Given the widespread nature of water pol-
+lution, especially in developing nations, our find-
+ings emphasize the urgent need to invest in advanced
+wastewater treatment technologies and infrastructure.
+These investments are essential not only for preserv-
+ing water quality but also for ensuring the resilience
+of ecosystems and communities in the face of ongo-
+ing environmental challenges.
+2	Review Sources
+The research papers are sourced from a variety of
+databases, ensuring a comprehensive collection of
+relevant literature. Figure 1 provides a detailed vis-
+ual representation of these databases, illustrating the
+diversity and scope of the sources utilized in this
+study.
+Identification of Sources
+Human Activities
+Environmental Science and Pollution Research
+Environmental Pollution
+Selection of Journals and
+Databas es
+Exposure and Health
+Journal of Environmental Management
+Environmental Engineering Research
+Google Scholar
+Environmental pollution
+Climate Change
+Search Strategy
+Keywords
+Environmental impact
+Anthropogenic influence
+Polycyclic Aromatic
+hydrocarbons
+Fig.1 Research methodology
+趋 Springer
+73 Page 4 of 40
+Water Air Soil Pollut (2025) 236:73
+3	Comprehensive assessment on water pollution
+The introduction of toxic compounds into surface
+water (such as lakes, rivers, and oceans) or subsur-
+face water (such as aquifers) is known as water pol-
+lution. These contaminants disrupt natural ecosystem
+processes or diminish the availability of clean water
+for beneficial uses Poikane et al., 2020. Energy emis-
+sions, including heat and radiation, can also contrib-
+ute to water pollution Sathya et al., 2022, alongside
+the discharge of chemicals, waste, or pathogens into
+water bodies. Human health suffers significantly from
+exposure to unsafe water. Approximately 300,000
+children under five years old die annually due to diar-
+rhoea accounting for about 5.3% of total deaths Sol-
+omon et al., 2021. Additionally, studies in Palestine
+indicate a higher incidence of diarrhoea among those
+who consume untreated municipal water compared
+to those using desalinated or home-filtered water
+Mustafa et al., 2023.
+Water is indispensable for a multitude of industrial,
+environmental, and physiological processes. It plays
+vital roles such as acting as a solvent, lubricant, tem-
+perature regulator, metabolite, and providing a habitat
+for countless organisms Arora et al., 2021. Despite
+its essential functions, water quality is often compro-
+mised when pollutants from various human activities
+exceed acceptable standards, making it unsuitable for
+its intended uses Ewuzie et al., 2021. This contami-
+nation is particularly concerning given water's crucial
+importance to all living organisms, including humans.
+Polluted water poses severe threats to environmen-
+tal integrity, disrupting ecosystems and endangering
+human health. The specific impacts of these pollut-
+ants can vary widely depending on their nature and
+source Silva, 2023.
+Moreover, the issue of water contamination is
+exacerbated by the looming global water scarcity
+crisis. Projections indicate that by 2025, five billion
+people out of an estimated global population of eight
+billion will be living in regions facing water scarcity
+Liu et al., 2024. This alarming forecast underscores
+the urgent need for sustainable water management
+practices to ensure that water remains available and
+safe for all its essential uses, thereby protecting both
+ecological balance and human health. The release of
+industrial and chemical substances poses one of the
+most significant environmental challenges humanities
+faces today. Although many of these pollutants are
+present in trace amounts, their potential for causing
+significant toxicological effects cannot be overlooked.
+This risk is amplified when these pollutants inter-
+act in complex combinations, creating a cocktail of
+harmful substances.
+As noted by Schwarzenbach et al., 2006, the
+presence of these pollutants in our water systems is
+widespread and growing. Table 1 provides a com-
+prehensive overview of common water pollutants
+and their associated impacts. It includes pharmaceu-
+ticals, which can disrupt aquatic ecosystems even at
+low concentrations; industrial chemicals, which often
+persist in the environment and accumulate in the food
+chain; pesticides, which can be toxic to a wide range
+of organisms; steroid hormones, which can interfere
+with the reproductive systems of aquatic life; and
+other emerging substances that are increasingly being
+detected in water sources.
+The global significance of freshwater contamina-
+tion as a serious public concern should not be under-
+estimated Narwal et al., 2023. For a comprehensive
+understanding of the various challenges related to
+sewage and waste management resulting from human
+activities, it is recommended to explore extensive
+resources on waste disposal and solid waste manage-
+ment. These resources provide detailed information
+on the methods and practices used to address and mit-
+igate the impact of waste on the environment, includ-
+ing the collection, treatment, and disposal of sewage,
+as well as the management of solid waste materials
+Englande et al., 2015. Water pollution can arise from
+point sources or nonpoint sources. Point sources, like
+discharge pipes from municipal or industrial sewage
+systems, localize pollutants to specific areas, simpli-
+fying management in comparison to diffuse sources
+Babcock-Jackson et al., 2023. Nonpoint sources, like
+runoff from agricultural fields, pose a broader chal-
+lenge as pollutants enter water systems over expan-
+sive and unconfined areas.
+While advancements in sewage treatment technol-
+ogies have improved management of diffuse pollution
+sources, significant challenges remain Fu et al., 2024.
+Figure 2 depicts the various origins of water pollution
+and underscores the complexity of controlling non-
+point sources.
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 5 of 40 73
+Table 1 Impact of water pollution
+Pollutant	Non-biodegradable organic matter	Inorganic dissolved solids	Biode-	Nutrients gradable organic matter	Pathogens	Suspended solids
+Reduced Oxygen Transfer	✓
+Toxicity	✓
+Foam Detergents	✓
+Noxious Scents	✓
+Pesticides	✓
+Plant Harm (Salinity)	✓
+Plant Toxicity (Ions)	✓
+Soil Permeability Issues	✓
+Non-biodegradability	✓
+Oxygen Depletion	✓
+Sewage Conditions	✓
+Fish Deaths	✓
+Excessive Algae	
+Ammonia Toxicity	
+Newborn Illnesses	
+Contaminated Groundwater	
+Water-borne Illnesses	
+Appearance Issues	
+Sludge Plaques	
+Adsorption of Contaminants	
+Pathogen Protection	
+Biological Oxygen Demand	✓
+Conductivity	✓
+Coliforms	
+Helminth Eggs	
+Phosphorus	
+Nitrogen	
+Total Dissolved Solids	✓
+Suspended Solids	
+References	Mustafa et al., 2023 Silva, 2023 Narwal
+et al.,
+2023
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+Babcock-Jack- Xie et al., 2022 Jerin et al., 2022
+son et al.,
+2023
+Despite ongoing efforts, there is optimism for future breakthroughs in addressing these challenges
+3.1	Causes of Water Contamination
+3.1.1	Domestic Sewage
+Sewage collected from residential areas harbours
+a considerable concentration of pathogens, which
+are microorganisms responsible for causing various
+diseases. These pathogens are primarily expelled
+through human feces, making sewage from urban
+environments particularly rich in potentially harm-
+ful germs. If these pathogens were to leak into natu-
+ral water bodies, such as lakes or rivers, they could
+directly threaten public health Cui et al., 2019.
+Another significant issue associated with sewage
+is the presence of organic chemicals that can decom-
+pose over time. These biodegradable substances
+are naturally found in sewage and are broken down
+by bacteria and other microorganisms present in
+趋 Springer
+73 Page 6 of 40
+Water Air Soil Pollut (2025) 236:73
+Water Pollution
+Sediments
+Domestic sewage
+Toxic Waste
+Solid Water
+Fig.2 Sources of water pollution
+
+
+water. However, this process of decomposition con-
+sumes dissolved oxygen from the water, leading to a
+decrease in oxygen levels Xie et al., 2022.
+The discharge of untreated sewage into lakes and
+streams poses a significant risk to aquatic ecosystems.
+Fish and other aquatic organisms depend significantly
+on sufficient oxygen levels in the water for their sur-
+vival and well-being. The introduction of sewage can
+disrupt this balance by reducing oxygen availability,
+thereby endangering the health and sustainability of
+aquatic life Nur-E-Alam et al., 2020.
+In summary, sewage from households not only
+contains a variety of pathogens that can threaten
+human health if released into water bodies, but it
+also introduces organic compounds that degrade
+water quality by depleting oxygen levels essential for
+aquatic organisms. Proper management and treatment
+of sewage are crucial to mitigate these environmental
+and public health risks associated with urban waste-
+water disposal.
+3.1.2	Solid Waste and Sediments
+Improper disposal of solid waste poses a significant
+threat to water quality by contributing substantially to
+contamination. This issue encompasses a wide array
+of solid waste types originating from various sources
+such as private households, commercial enterprises,
+institutions, and industrial facilities. Among these
+wastes are garbage, rubbish, electronic waste, general
+trash, sediment washed off from surfaces by rainwa-
+ter (surface runoff), and debris from construction and
+demolition activities Almusawi et al., 2022.
+In some regions, the deliberate discharge of solid
+waste into water bodies occurs due to several factors.
+These include the lack of adequate infrastructure for
+effective waste management, limited resources allo-
+cated to waste disposal, and insufficient or poorly
+enforced legislative measures. This problem is par-
+ticularly acute in economically disadvantaged nations
+where the capacity to manage solid waste is often
+overwhelmed Jerin et al., 2022.
+The consequences of such practices are far-reach-
+ing. They disrupt the delicate ecological balance of
+aquatic ecosystems by reducing the penetration of
+sunlight into the water, which is essential for photo-
+synthesis and the sustenance of aquatic life Blanchet
+et al., 2022. Moreover, when solid waste settles and
+accumulates on the seabed or riverbed, it can smother
+and suffocate bottom-dwelling species, exacerbating
+ecological harm Brule et al., 2022.
+Addressing the issue of improper solid waste
+disposal requires concerted efforts in developing
+comprehensive waste management infrastructure,
+allocating sufficient resources for waste disposal
+and recycling programs, and enforcing stringent
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 7 of 40 73
+environmental regulations. By doing so, we can miti-
+gate the adverse effects on water quality and safe-
+guard the health and integrity of aquatic environ-
+ments worldwide.
+3.1.3	Toxic waste
+Toxic waste comprises a wide range of substances
+that present considerable dangers to both the envi-
+ronment and human health. These substances span
+various categories, each with its own distinct hazards:
+they can be poisonous, emitting toxins that harm liv-
+ing organisms; radioactive, emitting harmful radia-
+tion; explosive, posing immediate danger if ignited;
+teratogenic, capable of causing birth defects in devel-
+oping fetuses; carcinogenic, potentially leading to
+cancer development; mutagenic, capable of damag-
+ing genetic material; and bio-accumulative, building
+up within organisms as they consume contaminated
+prey, ultimately concentrating in higher levels of the
+food chain. Each of these characteristics underscores
+the complex and multifaceted risks associated with
+toxic waste, necessitating rigorous management and
+containment practices to safeguard ecosystems and
+public health Jaishankar et al., 2014.
+Examples of sources for these hazardous chemicals
+are widespread. They include pesticides like chlor-
+dane, dieldrin, and heptachlor, which are carried into
+water bodies through surface runoff from agricultural
+fields and residential lawns. Additionally, industrial
+plants and chemical processing facilities discharge
+wastewater containing toxic metals such as lead, mer-
+cury, and chromium, contributing further to environ-
+mental contamination Lalah et al., 2022.
+Land pollution, another significant concern, intro-
+duces debris and rubble into water systems through
+various means like wind, animal transport, or pre-
+cipitation. This process directly contaminates water
+bodies, and over time, pollutants can accumulate
+and eventually reach the oceans from inland water-
+ways Shi et al., 2024. This pollution not only affects
+the aesthetic quality of aquatic environments but also
+poses immediate threats to specific species and entire
+ecosystems Zhang et al., 2024.
+Furthermore, specific categories of solid waste,
+such as plastics and electronic waste, are acknowl-
+edged for their potential to degrade and emit harmful
+chemicals into the environment during decomposi-
+tion. These materials are categorized as hazardous or
+toxic waste due to their ability to release substances
+that can adversely affect ecosystems and human
+health over time. Proper management and disposal
+practices are essential to mitigate these environmen-
+tal risks associated with the breakdown of such waste
+materials Abdel-Shafy & Mansour, 2018. This under-
+standing underscores the critical need for proper dis-
+posal methods such as landfills, which are designed
+to contain and mitigate the risks associated with such
+waste materials.
+3.1.4	Pathogens
+Bacteria, viruses, protozoans, and helminths repre-
+sent the primary types of organisms recognized for
+their potential to endanger human health through
+waterborne transmission. In the realm of water qual-
+ity research, indicator organisms play a pivotal role
+due to the considerable difficulty and expense asso-
+ciated with detecting pathogenic organisms in water
+samples, which often contain low concentrations
+of these hazards. These bacterial markers are exten-
+sively utilized for their reliability in identifying the
+presence of fecal matter, which can harbor harmful
+microorganisms Motlagh & Yang, 2019.
+Waterborne microorganisms have the potential to
+cause a range of illnesses in both humans and ani-
+mals. Pathogens have been sporadically detected
+in surface waters contaminated by sewage or other
+sources. These pathogens have been associated with
+a variety of health problems in people, highlighting
+the critical importance of monitoring and maintaining
+water quality standards. Additionally, Schistosoma-
+type parasitic worms have been implicated in certain
+instances of waterborne diseases, emphasizing the
+diverse nature of health risks associated with contam-
+inated water sources Richiardi et al., 2023.
+3.1.5	Inorganic compounds
+Inorganic water contamination encompasses several
+significant sources. One notable example is the pres-
+ence of ammonia, which often originates from the
+waste products of food processing industries. These
+industries release ammonia as a byproduct of their
+operations, contributing to water pollution. Another
+concern is the introduction of heavy metals into urban
+storm drains by vehicles. These metals, such as lead
+and mercury, accumulate from automotive emissions
+必 Springer
+73 Page 8 of 40
+Water Air Soil Pollut (2025) 236:73
+and runoff, posing risks to aquatic ecosystems upon
+entering water bodies. Furthermore, the application
+of acid mine drainage fertilizers can lead to the gen-
+eration of phosphates and nitrates in water systems
+Yang et al., 2024a. These chemicals, essential for
+plant growth but harmful in excess, can contribute to
+nutrient pollution when they leach into waterways.
+Additionally, sediment, known as silt, can be found
+in runoff from various human activities. These activi-
+ties include slash-and-burn agriculture, construction
+projects, sewage systems, logging operations, and
+land clearance activities Adams et al., 2016. Sedi-
+ment runoff poses challenges by clouding water and
+affecting aquatic habitats.
+Freshwater salinization, caused by saline runoff, is
+another critical issue affecting freshwater ecosystems.
+This phenomenon refers to the pollution of freshwater
+bodies due to the introduction of salts from various
+sources. A significant contributor to salinity in fresh-
+water systems is secondary salinization, also referred
+to as anthropogenic salinization, stemming largely
+from the extensive application of de-icing salts on
+roads. This phenomenon occurs when salts used to
+melt ice and snow on roadways eventually leach into
+surrounding soil and water bodies. The process is
+exacerbated by urbanization and infrastructure devel-
+opment, which increase the frequency and volume of
+salt applications. As a result, freshwater ecosystems
+experience elevated salinity levels, impacting aquatic
+life, water quality, and ecosystem health Cunillera-
+Montcusi et al., 2022. These salts enter water bodies
+through runoff and can alter the chemical composi-
+tion of freshwater ecosystems, impacting aquatic life
+and water quality. For further insights into the com-
+plexities of nutrient pollution and its implications for
+water quality, please refer to the dedicated section on
+this topic.
+3.2	Social Impact
+The impact of human activities and our interactions
+with the natural environment have placed Earth's eco-
+systems in significant peril. Our actions, from indus-
+trialization to urbanization, agriculture, and resource
+extraction, have collectively threatened the delicate
+balance of ecological systems worldwide. These
+activities have resulted in habitat destruction, pol-
+lution, climate change, and the depletion of natural
+resources, all of which have profound implications for
+biodiversity and the stability of ecosystems. Address-
+ing these challenges requires concerted efforts in
+conservation, sustainable development, and global
+cooperation to ensure the resilience and health of our
+planet's diverse ecosystems for future generations.
+This peril stems largely from the disregard of tradi-
+tional regulations and ethical considerations, resulting
+in widespread depletion and degradation of natural
+resources. This includes the deterioration of water
+quality and air purity, which are essential for sustain-
+ing life on our planet Gour et al., 2024. The pursuit of
+economic growth and an improved standard of living
+has driven these destructive practices, often without
+due consideration for their long-term consequences.
+The evolution from a "sociology of environment"
+to "environmental sociology" reflects a broader aca-
+demic and societal shift. It emphasizes the complex
+relationships between humans and their environment,
+aiming to guide human activities in ways that pro-
+mote ecological health and sustainability Mihalache
+et al., 2024. This paradigmatic shift underscores the
+need for integrated approaches that consider environ-
+mental, social, and economic factors to ensure a bal-
+anced and resilient ecosystem.
+Central to maintaining ecological balance is the
+diversity of organisms within ecosystems. From
+microscopic bacteria to large marine mammals, each
+species plays a crucial role in the intricate web of life.
+The interactions within these ecosystems are delicate
+and interdependent; any disturbance can have cas-
+cading effects throughout the entire ecosystem Wei-
+land-Brauer, 2021. For instance, the introduction of
+excessive chemicals into water bodies can fuel algal
+blooms, leading to oxygen depletion and the crea-
+tion of "dead zones" where marine life cannot survive
+Iruoghene, 2022, Faquih et al., 2024. Such phenom-
+ena not only threaten aquatic biodiversity but also
+disrupt fisheries and other human activities dependent
+on healthy marine ecosystems.
+Moreover, toxic algal blooms pose additional
+risks, releasing harmful neurotoxins that can affect
+marine mammals like whales and sea turtles, as well
+as human health in coastal communities. Industrial
+and municipal wastewater further exacerbates these
+issues, introducing pollutants such as heavy met-
+als and chemicals into freshwater systems Dorantes-
+Aranda, 2023. These pollutants accumulate in
+organisms, reducing their lifespan and reproductive
+capacities, thereby endangering entire populations
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 9 of 40 73
+and ecosystems Pasaoglulari Aydinlik et al., 2021.
+Predators consuming contaminated prey, such as
+larger fish accumulating mercury from smaller fish,
+exemplify how human activities can lead to hazard-
+ous levels of pollutants in the environment Ritger
+et al., 2018. These pollutants not only affect marine
+life but also pose risks to human health through the
+consumption of contaminated seafood. Beyond
+chemical pollutants, marine ecosystems face threats
+from physical pollutants like marine debris. Plastics
+and other waste materials can entangle, suffocate,
+or be ingested by marine organisms, leading to star-
+vation, injury, or death Saravanan et al., 2024. This
+underscores the urgent need for global efforts to
+reduce plastic waste and other marine debris through
+improved waste management practices and interna-
+tional cooperation. The challenges facing our ecosys-
+tems are multifaceted and interconnected. Addressing
+these challenges requires a holistic approach that inte-
+grates scientific knowledge, policy interventions, and
+public awareness. By promoting sustainable practices
+and environmental stewardship, we can mitigate the
+impacts of anthropogenic activities and safeguard the
+biodiversity and ecological integrity of our planet for
+future generations.
+A considerable volume of solid waste, compris-
+ing items such as plastic bags and soda cans, often
+enters the marine environment through storm drains
+and sewer systems, eventually making its way into
+the oceans. The consequences for marine life have
+been severe, affecting more than 200 different spe-
+cies. Abandoned fishing equipment and various other
+forms of waste Mahajan-Tatpate et al., 2024 exacer-
+bates this impact.
+Besides the accumulation of physical waste,
+another critical concern is the rising acidity levels in
+our oceans. This increase in acidity primarily stems
+from the absorption of around a quarter of the annual
+carbon emissions generated by burning fossil fuels.
+The repercussions of this phenomenon are extensive:
+it can interfere with the neurological processes of
+marine life and impede the growth of shells in vari-
+ous species, particularly shellfish. This acidification
+poses a serious threat to marine ecosystems, affect-
+ing their biodiversity and ecological balance Falken-
+berg et al., 2020.
+The phrase "water pollution" covers a diverse
+array of pollutants that affect aquatic environments.
+These contaminants include various chemicals,
+pathogens such as bacteria and viruses, and physical
+changes such as temperature fluctuations. Each type
+of pollutant can have distinct effects on water qual-
+ity and ecosystem health, highlighting the complex
+and multifaceted nature of water pollution. Under-
+standing and addressing these different sources of
+contamination are essential for safeguarding water
+resources and maintaining the ecological balance
+of aquatic ecosystems Nguyen et al., 2024, Saxena
+et al., 2022b. While many chemicals exist naturally
+in water at controlled levels, elevated concentra-
+tions of these natural substances can disrupt aquatic
+ecosystems by blurring the distinction between
+natural components and pollutants. Moreover, sub-
+stances that deplete oxygen levels in water, originat-
+ing from both human activities and natural sources
+like decaying plant matter, can further stress aquatic
+environments Gavrilescu, 2021. Turbidity reduces
+light penetration, potentially hampering the growth
+of aquatic plants and affecting the respiratory sys-
+tems of certain fish species Syeed et al., 2023. This
+phenomenon underscores the interconnectedness of
+environmental factors and highlights the cumulative
+impact of human actions on marine and freshwater
+ecosystems.
+3.3	Water pollution and human health
+The consequences of water pollution are profound
+and extensive, exerting a significant influence on
+global public health and mortality rates. A notable
+study published in The Lancet revealed that in the
+year 2015 alone, water pollution was directly respon-
+sible for causing the deaths of approximately 1.8 mil-
+lion people Southerland et al., 2022. This staggering
+figure underscores the severity of the issue and high-
+lights the urgent need for effective mitigation strate-
+gies. Beyond fatalities, contaminated water remains
+a pervasive source of illness for a staggering one
+billion individuals annually across the globe. This
+widespread health burden disproportionately affects
+impoverished communities, where proximity to major
+industrial polluters increases susceptibility to water-
+borne diseases Bashpa et al., 2024.
+The primary culprits behind water contamination
+are waterborne pathogens—microscopic organisms
+like bacteria and viruses that originate from human
+and animal waste. These pathogens infiltrate drink-
+ing water sources, leading to diseases such as cholera,
+必 Springer
+73 Page 10 of 40
+Water Air Soil Pollut (2025) 236:73
+typhoid fever, and giardiasis Gu et al., 2023. The
+problem extends beyond developing nations; even
+in affluent societies, accidental or illegal discharges
+from sewage treatment plants, alongside agricultural
+and urban runoff, introduce harmful microorganisms
+into waterways Mishra et al., 2023.
+Additionally, specific diseases like Legionnaires
+"disease exemplify the risks associated with contami-
+nated water sources. This severe form of pneumonia
+can be transmitted through water systems.
+In terms of chemical contaminants, water pollution
+encompasses a wide array of hazardous substances.
+These include heavy metals like copper, lead, chro-
+mium, and arsenic, as well as microplastics, phar-
+maceutical residues, and biological contaminants.
+Furthermore, pollutants like nitrogen dioxide from
+insecticides and radioactive compounds like chlo-
+roform, which are by-products of disinfection pro-
+cesses, pose significant health risks due to their det-
+rimental effects on human health Ateia et al., 2020.
+Addressing water pollution requires concerted
+efforts across various sectors, including policy,
+industry practices, and public awareness. Effective
+management strategies must prioritize safeguarding
+water quality to protect human health and mitigate
+the widespread impacts of pollution on communities
+worldwide.
+3.3.1	Arsenic
+Globally, approximately 140 million people face a
+concerning problem: their drinking water exceeds the
+WHO initial safety guideline of 10 ^g per liter (^g/L)
+for arsenic levels. This issue highlights a widespread
+challenge where communities are confronted with
+water quality issues that jeopardize public health and
+safety. This standard was established to protect human
+health from the toxic effects of arsenic. A consider-
+able amount of this arsenic contamination is naturally
+occurring, stemming from geological formations that
+leach arsenic into groundwater. However, the problem
+is exacerbated by human activities. Industrial opera-
+tions, such as mining and smelting, as well as agri-
+cultural practices, including the use of arsenic-based
+pesticides and fertilizers, contribute significantly to
+the increased levels of arsenic in water supplies Jiang
+et al., 2012.
+The presence of arsenic in drinking water is a seri-
+ous public health concern. Long-term exposure to
+arsenic can lead to a range of health problems, includ-
+ing skin lesions, cancer, cardiovascular diseases, and
+neurological effects. The fact that so many people
+are exposed to unsafe levels of arsenic underscores
+the urgent need for stricter regulatory measures,
+improved water treatment technologies, and compre-
+hensive monitoring of water sources. Efforts must
+also focus on mitigating the sources of contamination
+and providing affected communities with safe drink-
+ing water alternatives. This global challenge calls for
+coordinated action from governments, health organi-
+zations, and industries to protect vulnerable popula-
+tions from the harmful effects of arsenic in drinking
+water Shaji et al., 2021.
+The detrimental effects of arsenic exposure on
+human health are both profound and multifaceted,
+affecting a wide range of bodily systems. Extensive
+research by the International Agency for Research on
+Cancer (IARC) has established a clear and definitive
+link between arsenic exposure and an increased risk
+of developing various cancers. These include malig-
+nancies in critical organs, which are essential for vital
+bodily functions.
+Furthermore, comprehensive studies conducted by
+the National Institute of Environmental Health Sci-
+ences (NIEHS) in the United States have shed light on
+the vast array of health risks posed by arsenic expo-
+sure. Chronic exposure to arsenic is associated with
+a multitude of adverse health outcomes. Respiratory
+problems, such as persistent coughing and reduced
+lung capacity, are common among those exposed to
+arsenic. Additionally, there is a heightened vulner-
+ability to developing diabetes, a chronic condition that
+affects the body's ability to regulate blood sugar levels.
+Arsenic exposure also poses significant risks
+to children, including developmental delays and
+impaired cognitive function, which can have long-
+lasting effects on their overall health and well-being.
+Cardiovascular health is similarly compromised,
+with increased incidences of ischemic heart disease,
+a condition characterized by reduced blood flow to
+the heart. Moreover, chronic kidney disease, which
+impairs the kidneys' ability to filter waste from the
+blood, is another serious consequence of prolonged
+arsenic exposure Parvez et al., 2013.
+This dual perspective■—highlighting both the
+widespread exposure to elevated arsenic levels and
+its extensive health consequences—underscores the
+urgent need for global initiatives to address water
+必 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 11 of 40 73
+quality issues and mitigate the risks posed by arsenic
+contamination.
+3.3.2	Copper
+Copper can potentially contaminate drinking water
+when it leaches from aging copper pipes, some of
+which have been in use for many decades. The wide-
+spread adoption of copper plumbing in residential
+buildings started in the 1930s and continued through-
+out the twentieth century, leading to its almost ubiqui-
+tous presence Montagnino et al., 2022.
+Excessive exposure to copper can result in various
+symptoms, including abdominal pain, vomiting, and
+gastrointestinal distress. These symptoms highlight
+the importance of monitoring copper levels in drink-
+ing water to ensure it remains within safe limits.
+Fortunately, modern copper piping used today is
+designed to minimize the release of any harmful ele-
+ments into the water supply. As a result, it is generally
+considered safe for use in residential plumbing sys-
+tems Saxena et al., 2021a. This advancement under-
+scores ongoing efforts to improve water quality and
+safety standards in plumbing infrastructure.
+3.3.3	Lead
+Over the course of many years, aging pipes have been
+found to potentially contain lead, which can serve as
+a direct pathway for this harmful element to enter the
+water supply Renner, 2010. Exposure to lead-con-
+taminated water can lead to a range of neurological
+symptoms. These may include headaches, fatigue,
+muscle weakness, hallucinations, and in severe cases,
+seizures. These health effects underscore the seri-
+ous impact of lead contamination on human health,
+particularly emphasizing the need for clean and safe
+drinking water to prevent such harmful outcomes
+Mason et al., 2014. Moreover, exposure to lead can
+lead to other health complications such as kidney dis-
+ease, anemia, and severe gastrointestinal discomfort,
+often referred to as lead colic Wani et al., 2015.
+The World Health Organization (WHO) has pro-
+vided alarming estimates indicating that around 240
+million individuals globally are exposed to water
+contaminated with dangerous concentrations of lead.
+Lead, a toxic metal, poses significant health risks,
+particularly when present in drinking water, leading to
+both short-term and long-term health complications.
+WHO's comprehensive investigations highlight the
+severe impact of lead exposure, revealing that the
+detrimental effects result in over 850,000 deaths each
+year. These deaths are attributed to a range of health
+issues caused by lead toxicity, including neurological
+disorders, cardiovascular problems, and kidney dam-
+age, underscoring the urgent need for global action
+to mitigate lead contamination in water sources and
+protect public health Saxena et al., 2021b. This high-
+lights the significant public health impact of lead con-
+tamination in water sources globally.
+3.3.4	Chromium
+The contamination of water by chromium is a critical
+concern, primarily arising from its natural leaching
+from rocks and soil, as well as its discharge from vari-
+ous industrial activities. When chromium is released
+into the environment through these processes, it can
+enter water systems, leading to significant pollution.
+Among the different forms of chromium, hexavalent
+chromium (Cr [VI]) is particularly worrisome. This
+form is largely produced through human activities
+such as manufacturing, mining, and chemical process-
+ing. Hexavalent chromium is highly toxic and poses
+severe health risks to humans, including the poten-
+tial to cause cancer and other serious health issues.
+Therefore, the presence of hexavalent chromium in
+water sources represents a major environmental and
+public health challenge Tumolo et al., 2020.
+Numerous industries play a role in the spread
+of hexavalent chromium [Cr (VI)], a hazardous and
+carcinogenic compound. Key contributors include
+the stainless-steel industry, where Cr (VI) is used in
+alloying processes to enhance corrosion resistance.
+The welding sector also releases Cr (VI) during metal
+fusion and cutting operations. Portland cement pro-
+duction, another significant source, involves the use
+of chromium compounds that can release Cr (VI) dur-
+ing the cement manufacturing process.
+The leather tanning industry is a notable contribu-
+tor, as it employs Cr (VI) in the tanning process to
+increase the durability and flexibility of leather prod-
+ucts. Similarly, the textile dyeing industry uses chro-
+mium-based dyes, which can result in the release of
+Cr (VI) into the environment. In the chrome plating
+sector, Cr (VI) is essential for providing a hard, corro-
+sion-resistant coating on various metal products Fan
+et al., 2024.
+趋 Springer
+73 Page 12 of 40
+Water Air Soil Pollut (2025) 236:73
+When people drink water contaminated with chro-
+mium, they can face a variety of serious health prob-
+lems. One of the immediate effects is the appearance
+of skin rashes, as depicted in Fig. 3. Beyond skin
+issues, chromium exposure can lead to significant
+toxicity in vital organs such as the kidneys and liver,
+potentially causing long-term damage. It can also
+induce gastrointestinal discomfort, leading to symp-
+toms like nausea, vomiting, and abdominal pain.
+Moreover, chronic exposure to chromium increases
+the risk of developing cancer, as it is a known car-
+cinogen. Men may experience reduced sperm quality,
+which can impact fertility. Additionally, prolonged
+ingestion of chromium-tainted water can contribute
+to the onset of anemia, a condition characterized by
+a deficiency of red blood cells or haemoglobin, lead-
+ing to fatigue and other related symptoms. Thus, the
+health implications of chromium-contaminated water
+are extensive and severe, warranting immediate atten-
+tion and remedial action to prevent such risks Saxena
+et al., 2021c. The absorption of chromium through
+water intake becomes significantly more pronounced
+when the concentration of total chromium in drinking
+water surpasses 25 ^g per Liter (^g/L). This threshold
+marks a critical point where chromium begins to pose
+a more substantial health risk due to its increased
+bioavailability. According to the WHO's the issue of
+chromium contamination affects a relatively small
+portion of the United States population, with less than
+one percent being exposed to potentially harmful lev-
+els. These guidelines underscore the importance of
+monitoring and regulating chromium levels in drink-
+ing water to protect public health and ensure the
+safety of water supplies Georgaki et al., 2023. This
+underscores the critical importance of monitoring and
+mitigating chromium levels in water sources to safe-
+guard public health from these detrimental effects.
+3.3.5	Perchlorate
+Perchlorate contamination in water sources can arise
+from a variety of origins, encompassing both human
+industrial activities and natural environmental pro-
+cesses. In the realm of industry, perchlorate plays a
+crucial role as a chemical component in the manu-
+facturing of numerous products and technologies.
+For example, it is integral to the production of slurry
+explosives, which are used in mining and construction
+Fig.3 Relationship between varieties of environmental changes
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 13 of 40 73
+for blasting purposes. Additionally, perchlorate is
+employed in airbag inflation systems, where it serves
+as an oxidizing agent that rapidly generates gas to
+deploy airbags in vehicles during collisions, thereby
+enhancing passenger safety Steinmaus, 2016.
+Furthermore, perchlorate is a key ingredient in the
+formulation of road flares, providing the necessary
+oxidizer to sustain the intense, long-lasting flames
+required for signaling and emergency lighting. Its
+most notable industrial application, however, is in the
+development of solid rocket propellants. In this capac-
+ity, perchlorate contributes to the powerful chemical
+reactions that produce the thrust needed to propel
+rockets and missiles. These various uses underscore
+the significant role that industrial activities play in the
+introduction of perchlorate into water systems, add-
+ing to the contamination that can also originate from
+natural geological sources such as certain mineral
+deposits and atmospheric processes. Thus, addressing
+perchlorate contamination involves considering both
+its widespread industrial applications and its natural
+occurrences.
+The reduction of thyroid hormones is particularly
+concerning during pregnancy and early childhood,
+as these hormones are vital for proper neurological
+development. Studies have demonstrated that insuf-
+ficient thyroid hormone levels during these critical
+periods can adversely affect both intelligence and
+cognitive development Mughal et al., 2018. Thus,
+perchlorate contamination in water poses a serious
+risk to public health, particularly for vulnerable popu-
+lations such as pregnant women and young children.
+3.3.6	Fossil Fuel
+Water pollution can originate from numerous con-
+taminants produced during the extraction and refining
+of fossil fuels. This pollution includes a diverse array
+of harmful substances such as polycyclic aromatic
+hydrocarbons (PAHs), heavy metals like mercury and
+lead, benzene, methane, and other natural gases. Each
+of these pollutants poses a significant threat to water
+quality and public health. PAHs, which are organic
+compounds found in oil, coal, and tar deposits, can
+infiltrate water sources, leading to severe environmen-
+tal and health impacts. Heavy metals, released during
+the mining and processing of fossil fuels, persist in
+aquatic environments, causing long-term contami-
+nation that can accumulate in the tissues of aquatic
+organisms and, subsequently, in humans through the
+food chain. Benzene, a known carcinogen, and meth-
+ane, a potent greenhouse gas, further contribute to
+water pollution, exacerbating the health risks associ-
+ated with exposure. Howard et al., 2021.
+A comprehensive study, published in 2003, high-
+lights the scale of this issue. It reports that oil refiner-
+ies worldwide release approximately 50,000 barrels,
+or 8 million liters, of petroleum by-products on a reg-
+ular basis. This staggering amount of waste includes
+a variety of harmful substances that can severely
+degrade water quality. Alarmingly, around twenty-
+five percent of these by-products find their way into
+the water systems of certain countries. This infiltra-
+tion of pollutants introduces a multitude of toxins into
+the water supply, exacerbating environmental and
+public health concerns Hussain et al., 2024.
+The release of these contaminants into water bod-
+ies can lead to severe ecological and health reper-
+cussions. Polycyclic aromatic compounds and heavy
+metals, for instance, are known to persist in the envi-
+ronment and bioaccumulate, posing long-term risks
+to aquatic life and, ultimately, human populations that
+rely on these water sources. Benzene, a well-docu-
+mented carcinogen, and methane, a potent GHG, fur-
+ther complicate the scenario by adding layers of both
+immediate and long-term health and environmental
+challenges.
+In summary, the processing of fossil fuels not only
+contributes to air and soil pollution but also signifi-
+cantly threatens water quality through the release of a
+variety of hazardous substances. The study's findings
+underscore the urgent need for stricter regulations
+and innovative solutions to mitigate the impact of oil
+refinery waste on global water systems and public
+health.
+3.3.7	Pharmaceutical Drugs
+Pharmaceuticals encompass a wide array of active
+compounds that are used in various forms of medi-
+cal treatments, including veterinary care, over-the-
+counter remedies, and prescription medications.
+These substances can be either artificially synthesized
+or naturally derived from sources like plants and
+animals.
+The increasing use of pharmaceuticals in both
+agricultural practices and healthcare settings has
+raised concerns about their potential impact on the
+趋 Springer
+73 Page 14 of 40
+Water Air Soil Pollut (2025) 236:73
+environment Fernandes et al., 2021. These concerns
+stem from the fact that once pharmaceuticals are
+used, they can enter the environment through various
+pathways, such as wastewater from manufacturing
+facilities, hospitals, and residential use. As a result,
+pharmaceutical residues have been detected in surface
+water bodies and even in treated drinking water sup-
+plies Tudi et al., 2021.
+A report published by the World Health Organi-
+zation (WHO) in 2012 highlighted the presence of
+pharmaceuticals in drinking water, emphasizing the
+global nature of the issue and its potential implica-
+tions for public health Schwartz et al., 2021. The con-
+centrations of these pharmaceutical residues in water
+sources can range from very low levels, measured in
+nanograms per liter (ng/L), to slightly higher concen-
+trations in areas affected by wastewater discharge,
+typically remaining below 100 ng/L Seo et al., 2023.
+It's important to note that the concentrations of
+pharmaceuticals found in treated drinking water are
+usually well below levels that would pose any imme-
+diate health risks to humans Azanu et al., 2021. The
+current understanding among health authorities and
+environmental scientists is that exposure to such low
+concentrations of pharmaceuticals through drink-
+ing water is unlikely to cause adverse health effects.
+However, ongoing research and monitoring are essen-
+tial to ensure that water treatment processes effec-
+tively remove these residues and that their potential
+long-term effects on ecosystems and human health
+are thoroughly understood.
+In summary, while pharmaceuticals play a crucial
+role in modern medicine, their presence in the envi-
+ronment underscores the importance of responsible
+use and effective waste management practices to min-
+imize potential impacts on water quality and public
+health.
+3.3.8	Bio-Contaminants
+A bio-contaminant is any living microorganism such
+as bacteria, viruses, or parasites that infiltrates water
+sources designated for drinking or daily use, thereby
+posing significant health hazards to humans Omarova
+et al., 2018. These harmful agents can include a vari-
+ety of bacteria, such as Escherichia coli, which is
+infamous for causing gastrointestinal illnesses, and
+cyanobacteria, which can produce toxins leading to
+severe health issues. In addition to these bacterial
+threats, parasites like Giardia, Cryptosporidium, and
+Cyclospora are known for contaminating water and
+causing serious waterborne diseases, leading to symp-
+toms ranging from diarrhea to more severe health
+complications. Viruses, including adenoviruses and
+hepatitis A virus, also pose a significant threat to
+water safety, as they are capable of infecting water
+supplies and causing widespread health issues Bilung
+et al., 2017. The presence of these bio-contaminants
+in drinking water underscores the critical need for
+stringent water quality management and safety meas-
+ures to protect public health.
+The primary health impact of waterborne bio-con-
+tamination manifests most commonly as acute diar-
+rheal disease, characterized by loose, watery stools
+often accompanied by vomiting and fever. This con-
+dition is widespread among children globally, affect-
+ing over 1.7 billion individuals annually according to
+estimates from the WHO. Tragically, this illness con-
+tributes to approximately 525,000 deaths each year,
+ranking it as the second leading cause of mortality
+among children worldwide.
+In scientific research, the identification of the
+highly contagious Cyclospora species, particularly
+Cyclospora cayetanensis, has been a significant dis-
+covery. This pathogen was initially identified through
+rigorous laboratory investigations, with an illustration
+of this discovery provided in Fig. 4.
+3.3.9	Pesticides
+The use of pesticides in agricultural practices has the
+potential to contaminate water sources that are des-
+ignated for human consumption. This contamination,
+primarily caused by herbicides, insecticides, and fun-
+gicides, presents a significant environmental and pub-
+lic health challenge Syafrudin et al., 2021. Studies
+have demonstrated that these chemical substances can
+lead to a wide array of detrimental health effects. For
+instance, exposure to these pesticides has been linked
+to an increased risk of developing various types of
+cancer. Additionally, there is evidence suggesting
+that these chemicals can impair neurodevelopment
+in infants, leading to long-term cognitive and devel-
+opmental issues. Furthermore, pesticides have been
+associated with reproductive health problems, includ-
+ing reduced fertility and other reproductive disorders
+in men Wang & Qian, 2021. The widespread use of
+these chemicals in agriculture underscores the need
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 15 of 40 73
+Fig. 4 Impact of climate
+change
+for stringent regulations and effective measures to
+protect water quality and public health.
+3.3.10	Nitrates
+Nitrates are a class of chemical compounds that are
+created through a specific chemical process in which
+nitrogen atoms combine with oxygen atoms or ozone
+molecules. This reaction typically involves the oxida-
+tion of nitrogen, resulting in the formation of nitrate
+ions (NO3—).
+In nature, this process often occurs through a
+series of steps in the nitrogen cycle. Initially, nitrogen
+in the atmosphere, primarily in the form of nitrogen
+gas (N2), is converted into more reactive forms such
+as nitrogen oxides (NO and NO2) through processes
+like lightning or microbial activity in the soil. These
+nitrogen oxides then react with oxygen or ozone (O3)
+in the atmosphere, especially under the influence of
+sunlight and other environmental conditions, lead-
+ing to the formation of nitrates Ng et al., 2017. These
+compounds naturally exist in the environment and
+are frequently present in a variety of foods and food
+preservatives. Although they are found in nature, the
+predominant source of nitrates is the commercial fer-
+tilizers that are widely applied in modern agricultural
+practices. These fertilizers are extensively used to
+enhance crop yields and are a major contributor to the
+levels of nitrates we encounter in the food supply and
+the environment Singh & Saxena, 2021.
+The European Union has established regula-
+tions to control the levels of nitrates and nitrites
+in drinking water, setting maximum allowable
+concentrations for nitrites Zendehbad et al., 2022.
+These limits are crucial to ensure public health
+and safety. When the concentrations of these com-
+pounds exceed the specified limits, it is essential to
+take immediate corrective actions to reduce them
+to acceptable levels. Such actions may include
+improving water treatment processes or reduc-
+ing the use of nitrate-rich fertilizers in agriculture.
+Failure to adhere to these regulations can result in
+significant consequences for producers, including
+financial penalties Ward et al., 2018.
+趋 Springer
+73 Page 16 of 40
+Water Air Soil Pollut (2025) 236:73
+3.4 Climate change
+To comprehensively understand climate change, it
+is essential to start by defining the term "climate."
+Climate can be described in two primary ways. This
+statistical description includes parameters such as
+temperature, precipitation, wind, and other related
+factors. Second, "climate" is often understood as the
+average weather conditions observed in a specific
+region over a long period. In essence, climate can be
+generally defined as the state of the climatic system,
+incorporating both the variability and averages of var-
+ious atmospheric elements Koutsoyiannis, 2021.
+Climate change, often referred to as global warm-
+ing, encompasses the sustained elevation in Earth's
+average surface temperature over an extended period.
+This phenomenon primarily stems from human
+activities, notably the combustion of fossil fuels such
+as coal, oil, and natural gas. When these fuels are
+burned, they emit GHGs like carbon dioxide (CO2)
+into the atmosphere. GHGs possess the capability to
+trap heat, contributing to the warming of the Earth's
+surface. They include significant environmental
+impacts such as heightened sea levels due to melt-
+ing polar ice caps and glaciers. Moreover, climate
+change exacerbates the frequency and intensity of
+extreme weather events such as hurricanes, droughts,
+and floods. These consequences not only pose threats
+to ecosystems and biodiversity but also have pro-
+found socio-economic implications, affecting agricul-
+ture, water resources, and human health worldwide.
+Addressing climate change involves global efforts to
+reduce GHG emissions, adapt to its impacts, and fos-
+ter sustainable practices to mitigate future risks to the
+planet and its inhabitants Saxena et al., 2023, Mani-
+kandan & Saraswathi, 2023, Wei et al., 2020.
+A strong consensus exists among scientists world-
+wide that climate change is a real and urgent issue.
+Major scientific organizations, such as the National
+Aeronautics and Space Administration (NASA), the
+National Oceanic and Atmospheric Administration
+(NOAA), and the Environmental Protection Agency
+(EPA) of the United States, have confirmed that
+human activities are the primary drivers of recent cli-
+mate change. These organizations highlight the pro-
+found impacts of climate change on natural systems,
+human health, and global economies.
+The Geneva Report published by the World Health
+Organization (WHO) provides a detailed analysis
+of how global climate change measures affect pub-
+lic health. Figure 3 from this report illustrates the
+comprehensive impact of climate change on human
+health, showing that the general population is sig-
+nificantly affected by these changes. Health impacts
+include increased incidence of heat-related illnesses,
+respiratory disorders due to poor air quality, and the
+spread of vector-borne diseases.
+Despite various mitigation efforts, the Earth's cli-
+mate system continues to experience significant stress
+and pressures. The ongoing emission of GHG and
+other pollutants exacerbates the challenges posed by
+climate change. As a result, it is crucial to implement
+effective strategies for reducing GHG emissions,
+enhancing resilience to climate impacts, and promot-
+ing sustainable development practices to protect both
+the environment and human health Skendzic et al.,
+2021.
+The increasing frequency of floods and droughts,
+coupled with disruptions to our natural water ecosys-
+tems, present profound challenges to the sustainable
+coexistence of humanity with the Earth Bhaga et al.,
+2020. The far-reaching impacts of extreme climate
+events encompass a broad spectrum of effects with
+profound implications. These include elevated lev-
+els of air pollution, a rise in the prevalence of infec-
+tious diseases, and substantial transformations in both
+freshwater and marine ecosystems. These ecosystems
+play pivotal roles in ensuring food and water security,
+underscoring the interconnectedness between climate
+dynamics and the sustainability of vital resources
+Sandifer et al., 2015. Conversely, the observable
+impacts of climate extremes manifest through tan-
+gible alterations in our environment's physical char-
+acteristics, climate patterns, and weather systems.
+These transformations primarily result from human
+actions, influencing ecological equilibrium in ways
+that can either prove advantageous or pose challenges
+Saxena et al., 2022a.
+While the Earth possesses a degree of resilience
+to environmental stresses, there are limits to this
+resilience. Human activities, particularly those that
+degrade natural systems and contribute to climate
+change, often exceed the Earth's capacity to regener-
+ate and restore balance Water contamination, a direct
+consequence of human-induced climate change,
+stands out as a pressing issue that demands immedi-
+ate corrective measures to safeguard human health
+and ecological integrity Fallah Shayan et al., 2022.
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 17 of 40 73
+Human actions profoundly influence all facets
+of the environment, including climate and weather
+dynamics. While some activities contribute positively
+to environmental health, others lead to degradation
+and disruption. The capacity of ecosystems to with-
+stand damage is finite; thus, sustained human impacts
+threaten long-term ecological stability Arora et al.,
+2023, D'Amato et al., 2020.
+The visible alterations in Earth's surface due to
+ongoing pressures on the climate system serve as
+stark reminders of the urgent need for comprehensive
+environmental stewardship and mitigation strategies
+Shi et al., 2023. In addition to the immediate concerns
+posed by rising surface temperatures, the sustainable
+future of human habitation on Earth faces significant
+challenges from the increasing frequency of extreme
+weather events such as floods and droughts. Further-
+more, the integrity of our natural water systems, vital
+for biodiversity and human livelihoods, is increas-
+ingly compromised Hwabejire et al., 2023, Wang
+et al., 2023. These issues underscore the complex
+interplay between human activities, environmental
+health, and the future of life on our planet.
+The World Health Organization's Geneva Report
+underscores a critical interplay between human
+activities and climate conditions, both of which have
+profound and simultaneous impacts on human well-
+being D'Amato et al., 2015. The actions of human-
+ity exert substantial control over weather patterns,
+climate processes, and the overall health of the
+environment. Human activities, ranging from indus-
+trial emissions and deforestation to urbanization and
+agricultural practices, shape atmospheric conditions
+and alter natural climate cycles. These activities can
+lead to changes in precipitation patterns, temperature
+fluctuations, and the frequency of extreme weather
+events. Furthermore, they impact ecological bal-
+ance, biodiversity, and the quality of air, water, and
+soil. Understanding and mitigating these impacts are
+critical for preserving ecosystems, safeguarding pub-
+lic health, and promoting sustainable development
+globally. Some of these activities contribute posi-
+tively to ecological balance, while others pose poten-
+tial risks and adverse outcomes Ugbune et al., 2023.
+Despite the environment's resilience to absorb certain
+levels of stress, the cumulative impact of harmful
+human practices often exceeds its capacity for recov-
+ery Palczynski et al., 2018. For example, the pollu-
+tion of water sources arises as an inevitable outcome
+of climate change intensified by human activities,
+demanding immediate and specific actions to address
+the issue effectively. This situation underscores the
+critical need for prompt intervention strategies aimed
+at mitigating the environmental impact and safe-
+guarding water quality for present and future genera-
+tions Wikel, 2022.
+In essence, while certain human endeavors con-
+tribute positively to environmental well-being, others
+underscore the urgent need for mitigation strategies.
+The environment's ability to withstand stress is finite,
+and actions to address the unavoidable repercussions
+of human-induced climate change, such as water con-
+tamination, are imperative for safeguarding human
+health and ecosystem integrity Sorensen et al., 2018.
+Thus, proactive measures are essential to navigate the
+delicate balance between human activities and envi-
+ronmental sustainability in the face of ongoing cli-
+mate challenges.
+3.4.1	Climate Change S Impact on Human Health
+Air pollution stands as a formidable challenge in our
+modern era, primarily due to its dual impacts on cli-
+mate change and human health, thereby affecting the
+overall well-being of societies White et al., 2023.
+Among the array of pollutants, particulate matter
+(PM) is a significant culprit, comprising fine particles
+that, when inhaled, penetrate deep into the respiratory
+system. These particles not only impair lung function
+but also pose risks to cardiovascular health and can
+detrimentally affect neurological and reproductive
+systems.
+Ozone, while beneficial in the upper atmosphere
+for shielding against harmful ultraviolet radiation,
+becomes problematic at ground level. Here, it con-
+tributes to respiratory and cardiovascular issues when
+present in sufficient concentrations Bouchard et al.,
+2019. Additionally, VOCs and PAHs, for instance, are
+volatile compounds that pervade the atmosphere and
+can lead to various health complications upon expo-
+sure Saxena et al., n.d.
+The immediate effects of carbon monoxide are also
+notable, capable of causing harm shortly after expo-
+sure if concentrations are high enough Archer et al.,
+2023. Furthermore, heavy metals such as lead present
+serious health risks, potentially causing acute poison-
+ing or chronic toxicity depending on the level and
+duration of exposure Elsayed et al., 2023.
+趋 Springer
+73 Page 18 of 40
+Water Air Soil Pollut (2025) 236:73
+Human activities have a profound impact on the
+natural world, particularly through the contamina-
+tion of essential resources such as soil, water, and air.
+The industrial revolution, while ushering in remark-
+able advancements in technology, society, and service
+provision, also brought about significant levels of air
+pollution, which pose direct threats to human health
+Eckelman & Sherman, 2016. This period marked a
+turning point where human influence on the environ-
+ment began to manifest in ways that affect not just
+ecosystems but also the broader fabric of society,
+including legal frameworks, economic systems, and
+societal norms Saxena et al., 2024a.
+The global challenge of environmental pollution
+has far-reaching implications, impacting ecosystems
+in ways that threaten food security, accelerate ice
+melting and species extinction, and jeopardize the
+survival of plant species critical for biodiversity and
+human livelihoods. Over time, these environmental
+changes can also lead to adverse effects on human
+health, particularly cardiovascular health Florentina
+& Io, 2011.
+In addition to chronic environmental changes bring
+with them not only immediate physical risks such as
+injuries and disease outbreaks but also significant
+psychological and social challenges, including dis-
+placement and community disruption. For example,
+cities like New Delhi illustrate the detrimental effects
+of poor air quality on public health, highlighting the
+urgent need for effective environmental policies Ech-
+endu et al., 2022.
+Air pollution, a prominent factor in the degrada-
+tion of our environment, presents pressing threats to
+human health by causing harm to both the respiratory
+and cardiovascular systems. The pollutants released
+into the air, such as particulate matter and toxic gases,
+have direct and detrimental effects on human health,
+leading to increased risks of respiratory infections,
+exacerbation of asthma and other respiratory condi-
+tions, and heightened susceptibility to cardiovascu-
+lar diseases. Addressing air pollution is imperative
+not only for safeguarding public health but also for
+preserving the overall well-being of ecosystems and
+biodiversity Zazouli et al., 2023, Saxena et al., 2024b.
+Exposure to pollutants like ozone and particulate
+matter can lead to a range of health issues including
+chest pain, respiratory discomfort, and reduced lung
+function, underscoring the critical need for mitigation
+strategies and public health interventions [Fig. 4].
+Climate change has far-reaching consequences for
+public health, exacerbating concerns related to aller-
+gies and severe allergic responses like asthma. This
+is compounded by rising temperatures, heightened
+levels of pollen, and extended periods conducive to
+plant growth. These factors collectively intensify the
+challenges faced by healthcare systems and individu-
+als managing respiratory conditions, highlighting
+the urgent need for adaptive measures and enhanced
+healthcare strategies to mitigate these impacts
+Morantes et al., 2021. These environmental shifts not
+only heighten susceptibility to respiratory ailments.
+Particularly vulnerable are populations residing in
+regions unaccustomed to extreme heat, such as north-
+ern latitudes Schraufnagel, 2020.
+Among those most at risk are outdoor work-
+ers, student athletes, and homeless individuals, who
+endure prolonged exposure to elevated temperatures
+Heo et al., 2025. Additionally, low-income house-
+holds and elderly populations, often lacking access to
+air conditioning, face heightened health risks during
+heatwaves Bhattarai et al., 2024.
+Moreover, climate change alters air quality both
+indoors and outdoors, worsening respiratory and
+cardiovascular conditions like asthma and difficulty
+breathing due to increased temperatures and erratic
+weather patterns Samuel et al., 2023. Future projec-
+tions indicate a heightened frequency and severity of
+wildfires, which not only emit smoke but also release
+harmful pollutants into the atmosphere, further com-
+promising respiratory health Yang et al., 2024b, Kang
+et al., 2024.
+Due to healthcare access and economic inequities,
+disease-carrying ticks and mosquitoes are spread-
+ing worldwide, disproportionately affecting vulner-
+able communities in less developed regions Kumar
+et al., 2022. These disparities underscore the differ-
+ential risks faced by diverse racial and ethnic groups
+worldwide. Climate change disproportionately affects
+the health of women and girls more severely than
+men and boys in many regions, despite variations in
+impact across different contexts. This disparity stems
+from several factors: women and girls are often found
+in lower socioeconomic positions and are more likely
+to adhere to traditional gender roles, which can limit
+their ability.
+To understand the broader implications on mental
+health, researchers have examined various indica-
+tors such as mortality rates, suicide rates, incidents
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 19 of 40 73
+of self-harm, and admissions to psychiatric hospitals
+Owheruo et al., 2023, Jeong et al., 2024. Vulner-
+able populations include individuals with a history
+of mental illness, indigenous peoples, immigrants,
+refugees, children, adolescents, and the elderly. These
+groups are particularly susceptible to the psycho-
+logical toll of climate change, experiencing emotions
+ranging from profound ecological grief and despair to
+pervasive worry. Such emotional responses are con-
+sidered natural reactions to the deteriorating state of
+the natural world and may prompt behaviours aimed
+at adaptation and mitigation.
+The geographical spread of disease-carrying ticks
+illustrates another consequence of climate change.
+Rising temperatures expand the habitats suitable for
+ticks, which are vectors for diseases such as Lyme
+disease and tick-borne encephalitis Chu & Karr,
+2017. This expansion is expected to increase dis-
+ease prevalence in countries across the Northern
+Hemisphere. For example, projections indicate that a
+2-degree Celsius increase in temperature could lead
+to earlier and prolonged Lyme disease seasons, along
+with a substantial rise in cases in the United States
+over coming decades.
+Similarly, climate change is anticipated to exac-
+erbate outbreaks of diseases like cholera, caused by
+vibrio bacteria, due to changes in sea surface temper-
+atures and salinity Costa et al., 2023. Certain demo-
+graphic groups face heightened health risks due to
+climate change. Moreover, people living in remote
+rural areas, often lack access to resources and infra-
+structure that could help them cope with or mitigate
+the impacts of extreme weather events such as hur-
+ricanes, droughts, bushfires, and rising sea levels
+Xiaoju et al., 2024, Adla et al., 2022.
+In conclusion, climate change not only poses sig-
+nificant environmental challenges but also has pro-
+found implications for public health, with differential
+impacts that disproportionately affect vulnerable pop-
+ulations. Addressing these disparities requires com-
+prehensive strategies that include adaptation meas-
+ures, equitable access to healthcare and resources,
+and policies aimed at reducing GHG emissions.
+4	Comprehensive Assessment on Water Pollution
+Air pollution from natural disasters like forest fires
+and volcanic eruptions was already there long before
+humans appeared on the scene. However, the contem-
+porary environmental crisis we face today predomi-
+nantly stems from human activities that have intensi-
+fied air pollution Wikel, 2022. This escalation began
+with the widespread use of coal, which introduced
+GHG into the atmosphere, precipitating profound
+consequences for ecosystems and all forms of life.
+The impact of air pollution extends beyond humans,
+affecting animals, crops, infrastructure (via acid rain),
+and natural habitats (through climate change, ozone
+depletion, and habitat degradation) Ghorani-Azam
+et al., 2016.
+Air pollution, arising from both natural phenom-
+ena and anthropogenic activities, poses significant
+health risks, primarily targeting the respiratory and
+cardiovascular systems of individuals. The severity
+of these health impacts varies widely among people
+due to factors such as the type and concentration of
+pollutants, individual health conditions, and genetic
+predispositions Kim et al., 2020.
+In addition to the emissions caused by human
+activities, natural sources also contribute signifi-
+cantly to air pollution through various mechanisms.
+Methane, for instance, is released naturally during the
+decomposition of organic matter in soils. Volcanic
+activities emit ash and gases into the atmosphere,
+which can contain sulfur dioxide and other pollutants.
+Wildfires, which can occur naturally or be exacer-
+bated by human actions such as land clearing, release
+substantial amounts of smoke and particulate matter.
+These natural processes interact dynamically with
+human-induced emissions in the atmosphere. They
+create complex feedback loops where pollutants
+can interact and undergo chemical reactions, lead-
+ing to secondary pollutants like ozone and fine par-
+ticulate matter. These interactions not only contribute
+to localized air quality issues but also have global
+implications for climate change. For example, certain
+pollutants, such as methane and black carbon from
+wildfires, can contribute to the greenhouse effect and
+influence regional and global climate patterns Edo
+et al., 2023.
+It is imperative to address the shared sources of
+these challenges, particularly the emissions resulting
+from the combustion of fossil fuels (as illustrated in
+Fig. 5), in order to effectively mitigate the impacts
+of air pollution and climate change. Implementing
+sustainable environmental practices is crucial for
+safeguarding human health and the well-being of all
+趋 Springer
+73 Page 20 of 40
+Water Air Soil Pollut (2025) 236:73
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 21 of 40 73
+◄Fig. 5 Sources of air pollution and health impact
+living organisms amidst these interconnected envi-
+ronmental challenges.
+4.1	Structure of Atmospheric Pollution
+Climate change and air pollution are significant issues
+that pose serious threats to the global environment
+and human health. The complex interplay between
+these two challenges highlights their collective impact
+on our planet. Urban areas are especially burdened
+by high levels of major air pollutants, including sul-
+fur dioxide, nitrogen dioxide, and carbon monoxide.
+These harmful substances primarily originate from
+the burning of fossil fuels such as fuel oil, gasoline,
+and natural gas. This combustion process takes place
+in power plants, vehicles, and a variety of industrial
+activities. The high concentration of these pollutants
+in cities contributes to deteriorating air quality, which
+in turn exacerbates health problems and environmen-
+tal degradation Roberts, 2021.
+Ozone, a reactive gas and a major component of
+smog, forms in the atmosphere through intricate
+chemical reactions involving nitrogen dioxide and
+volatile organic compounds, including those emit-
+ted from gasoline vapours containing carbon monox-
+ide—often termed the "silent killer" Edo et al., 2022.
+Carbon monoxide, despite being both odourless and
+colourless, poses a substantial risk to human life by
+interfering with the bloodstream's oxygen-carrying
+capacity. In high concentrations, carbon monoxide
+can completely obstruct oxygen transport, potentially
+leading to fatalities.
+The combustion processes responsible for emit-
+ting these pollutants also release other hazardous
+substances into the surrounding environment. When
+combined with precipitation, these pollutants contrib-
+ute to the formation of acid rain, which poses signifi-
+cant threats to sensitive ecosystems such as lakes and
+forests. The detrimental effects of acid rain extend
+to endangering aquatic life, harming vegetation, and
+altering soil chemistry, thereby impacting entire
+landscapes.
+In summary, the complex interactions between
+emissions from fossil fuel combustion, the formation
+of ozone and other pollutants, and their culmination
+in acid rain illustrate the interconnected challenges
+of climate change and air pollution. Addressing these
+issues requires integrated efforts in policy, technol-
+ogy, and global cooperation to mitigate their far-
+reaching impacts on both the environment and human
+health.
+4.1.1	Ozone (O3) Impact in the Atmosphere
+Ozone (O3), a molecule composed of three oxy-
+gen atoms, exists in varying concentrations near the
+Earth's surface as well as in the upper atmosphere.
+When found at ground level, particularly on hot and
+sunny days, ozone becomes a significant concern for
+human health. It forms a crucial part of smog, a com-
+plex mixture of pollutants, and is officially classified
+as a hazardous air pollutant due to its potential adverse
+impacts on human health and the environment.
+Exposure to elevated levels of ground-level
+ozone can lead to a range of health problems. These
+include respiratory issues such as aggravated asthma,
+decreased lung function, and increased susceptibility
+to respiratory infections. Additionally, ozone expo-
+sure can exacerbate existing cardiovascular condi-
+tions and cause inflammation of the airways, leading
+to discomfort and reduced quality of life. The severity
+of these health effects depends on factors such as the
+duration and intensity of ozone exposure, as well as
+individual susceptibility Bradu et al., 2022.
+Particles smaller than 10 ^m can reach the lungs
+and potentially enter the bloodstream, causing irrita-
+tion and inflammation of the airways. This can exac-
+erbate respiratory conditions, and may increase the
+risk of respiratory infections Edo et al., 2024a.
+Therefore, both ground-level ozone and particu-
+late matter pose significant health risks, especially to
+vulnerable individuals with pre-existing respiratory
+conditions. Understanding these pollutants and their
+effects is crucial for implementing effective air qual-
+ity management strategies to protect public health and
+the environment Upadhyay, 2020.
+Table 2 highlights ozone's contrasting roles:
+stratospheric ozone acts as a vital UV shield, while
+ground-level ozone, formed by photochemical reac-
+tions, poses health risks like respiratory problems
+and environmental harm such as reduced agricultural
+productivity. It underscores the need for strategies to
+mitigate ground-level ozone pollution.
+必 Springer
+73 Page 22 of 40
+Water Air Soil Pollut (2025) 236:73
+Table 2 Comparative impact of Ozone on the atmosphere and human health			
+Parameter	High Atmosphere (Stratosphere)	Ground-Level (Troposphere)	Reference
+Formation	Naturally occurs, forming the ozone layer	Forms from VOCs and NOx reactions under sunlight	Zhang et al., 2023, Gautam et al., 2023
+Primary Role	Protects against harmful UV radiation	Component of smog, contribut- ing to pollution	Zhang et al., 2023
+Health Impacts	Beneficial (no direct health impacts)	Respiratory issues: lung function decline, asthma exacerbation, COPD risk	Gautam et al., 2023
+Short-Term Health Effects	None	Chest pain, coughing, throat irritation	Gautam et al., 2023
+Long-Term Health Effects	None	Chronic respiratory diseases, lung function deterioration	Zhang et al., 2023, Gautam et al., 2023
+Environmental Impacts	Vital for blocking UV light	Damages vegetation, reduces crop yields	Zhang et al., 2023
+Economic Costs	Positive (prevents skin cancer & cataracts)	Healthcare costs, agricultural losses	Zhang et al., 2023
+Climate Change Role	Minor warming effect (as a greenhouse gas)	Contributes to smog, indirectly reducing CO2 absorption by plants	Zhang et al., 2023, Gautam et al., 2023
+Regulatory Standards	Not required	Maintained below 70 ppb (EPA standard)	Zhang et al., 2023
+Individuals who are generally healthy may experi-
+ence some of these effects discussed; however, those
+who suffer from respiratory issues are particularly
+susceptible to more severe consequences Ebi et al.,
+2021. This susceptibility can lead to heightened use
+of pharmaceuticals, increased visits to healthcare pro-
+viders and emergency rooms, more frequent hospi-
+tal admissions, and greater absences from school or
+work.
+Exposure to oxygen has been identified as a
+trigger for asthma flare-ups and is implicated in
+the onset of asthma itself. Moreover, studies have
+shown a correlation between elevated oxygen levels
+and increased mortality rates from respiratory dis-
+orders in regions with high concentrations of this
+gas Edo et al., 2024b.
+Among the various air pollutants, fine particulate
+matter (PM2.5) and ground-level ozone (O3) are of
+primary concern Bala et al., 2021. These pollutants
+have been found to harm agricultural crops (O3),
+impair visibility (PM2.5), and heighten the vulner-
+ability of certain tree species to diseases (O3) Montes
+et al., 2022. Smog, the atmospheric phenomenon pre-
+dominantly composed of ozone (O3), forms when
+other airborne contaminants react under sunlight
+Wroblewska & Jeong, 2021.
+4.1.2	しarbon monoxide
+Carbon monoxide (CO) is a dangerous gas that is both
+colorless and odorless, making it undetectable by
+human senses. It is produced when carbon-containing
+fuels like natural gas, gasoline, and wood undergo
+incomplete combustion. This can happen in various
+settings, including vehicles, power plants, wildfires,
+and incinerators, leading to the release of CO into
+the atmosphere. Vehicles, particularly in urban areas,
+are significant contributors to outdoor CO emissions.
+Traffic congestion exacerbates this issue, causing high
+levels of CO pollution. Power plants that burn fossil
+fuels and wildfires also add to CO emissions. Incin-
+erators used for waste disposal can emit CO when the
+combustion process is incomplete. The presence of
+CO in the atmosphere is a major environmental and
+public health concern. Efforts to reduce CO emissions
+focus on improving combustion efficiency, regulating
+industrial processes, and reducing traffic congestion
+to mitigate the harmful effects of this invisible gas
+Sheoran et al., 2022.
+In addition to direct sources of combustion, other
+atmospheric compounds, including methane, non-
+methane hydrocarbons, and various organic mol-
+ecules found in surface waters and soils, can also
+必 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 23 of 40 73
+contribute to the production of carbon monoxide
+(CO) through photochemical reactions. These reac-
+tions occur when sunlight interacts with these com-
+pounds, leading to a series of complex chemical
+processes that ultimately result in the formation of
+CO. Methane and non-methane hydrocarbons, when
+exposed to ultraviolet light, can break down and par-
+ticipate in reactions with other atmospheric compo-
+nents. Similarly, organic molecules in surface waters
+and soils can undergo transformations under the
+influence of sunlight, adding to the CO levels in the
+atmosphere. This highlights the multifaceted nature
+of CO production, extending beyond just combustion
+to include photochemical processes involving various
+organic substances Liu et al., 2022. Natural events
+such as wildfires and industrial processes that involve
+burning fuels other than those used in transportation
+further add to the atmospheric burden of CO. The
+cumulative impact of these industrial activities on
+overall CO levels is noteworthy.
+Indoors, internal combustion engines and emission
+control systems in vehicles operate less efficiently
+when cold, resulting in higher levels of CO emis-
+sions. This inefficiency occurs because cold engines
+have lower air-to-fuel ratios, which leads to incom-
+plete combustion. As a result, catalysts within emis-
+sion control systems also take longer to reach opti-
+mal operating temperatures, further contributing to
+increased CO output Dey & Dhal, 2019.
+While instances of extremely high CO concentra-
+tions are rare, they can occur under specific condi-
+tions influenced by emissions patterns, weather con-
+ditions, and geographical factors. CO is known for
+its stability in the atmosphere, with a typical lifespan
+ranging from two to four months Wallington et al.,
+2022, Maciejczyk et al., 2021. Its stability, coupled
+with its lack of distinctive smell or taste, complicates
+its detection and diagnosis. Symptoms of CO poison-
+ing can mimic those of common illnesses, posing
+challenges in identifying and treating cases of expo-
+sure. Consequently, the actual prevalence of CO poi-
+soning remains uncertain, and many cases likely go
+undetected Harper, 2004.
+When CO enters the bloodstream, it binds to hae-
+moglobin with a higher affinity than oxygen, dis-
+placing oxygen molecules Roy et al., 2024. This
+process reduces the amount of oxygen that hae-
+moglobin can carry to vital organs throughout the
+body. Figure 6 shows how this problem is worsened
+by environmental levels of carbon monoxide, which
+make it harder for the body to provide oxygen to vital
+organs like the heart and brain.
+Indoor environments, especially those lacking
+proper ventilation, can pose a significant risk for
+carbon monoxide poisoning. The widespread adop-
+tion of natural gas heating systems, coupled with
+the increase in GHG emissions, has heightened the
+potential for such incidents in residential settings. In
+homes without adequate ventilation, individuals may
+unknowingly expose themselves to dangerous levels
+of carbon monoxide, often without realizing the dan-
+ger until symptoms appear Vardoulakis et al., 2015.
+Another source of concern is the use of indoor
+grills and smokers near or inside homes. Despite the
+belief that these devices are safe to use indoors, they
+can produce substantial amounts of carbon monoxide,
+which, even at low concentrations, can cause symp-
+toms and pose health risks over time Marques et al.,
+2021. The binding of carbon monoxide to haemo-
+globin reduces oxygen transport to critical organs,
+posing significant health risks, particularly in poorly
+ventilated indoor spaces. Awareness of sources of
+carbon monoxide and its potential health impacts is
+crucial for preventing poisoning incidents in residen-
+tial settings.
+Every year, carbon monoxide poisoning leads to
+more than 20,000 visits to emergency departments
+across the United States, making it a significant
+public health concern. Carbon monoxide poisoning
+can present with a diverse range of symptoms, some
+of which are less common but potentially severe.
+These may include heart-related issues like myocar-
+dial ischemia, which refers to reduced blood flow to
+the heart muscle, and atrial fibrillation, an irregular
+heartbeat. Respiratory complications such as pneu-
+monia and pulmonary edema, where fluid accumu-
+lates in the lungs, are also possible. Metabolic dis-
+turbances like hyperglycaemia, elevated blood sugar
+levels, and lactic acidosis, a buildup of lactic acid
+in the body, may occur as well. Additionally, carbon
+monoxide poisoning can lead to muscle damage,
+known as muscle necrosis, and acute kidney failure.
+Skin abnormalities, including various lesions, and
+impairments in sensory functions are other potential
+manifestations. Each of these symptoms underscores
+the broad and serious impact that carbon monox-
+ide poisoning can have on multiple body systems
+Waite et al., 2014. Furthermore, prolonged exposure
+趋 Springer
+73 Page 24 of 40
+Water Air Soil Pollut (2025) 236:73
+Fig. 6 Impact of CO in human body
+to carbon monoxide can cause lasting damage to the
+heart, significantly impacting overall life expectancy
+Lee et al., 2015.
+While outdoor concentrations of carbon monoxide
+are typically low and not a major concern, elevated
+levels in outdoor environments can pose a consider-
+able risk, particularly to individuals with pre-existing
+heart conditions. Such individuals are especially vul-
+nerable during situations that increase their heart's
+oxygen demand, such as periods of stress or physical
+exertion. This heightened susceptibility can result in
+symptoms like angina (chest pain) and reduced oxy-
+genation of cardiac tissues Chu et al., 2021.
+Despite its significant health impacts, the global
+environmental effects of carbon monoxide are gen-
+erally considered minimal. However, locally near
+its sources of emission, carbon monoxide can inter-
+act with other air pollutants, potentially exacerbat-
+ing air quality issues. During the summer months,
+carbon monoxide may oxidize to form carbon diox-
+ide, a potent GHG contributing to climate change,
+which is harmful to human health and ecosystems
+(Fig. 6). In summary, while carbon monoxide pri-
+marily poses a direct health risk through poisoning,
+its environmental interactions near emission sources
+warrant attention for localized air quality manage-
+ment and understanding its role in broader atmos-
+pheric processes.
+4.1.3	Sulphur Dioxide
+Sulphur dioxide (SO2) is a highly detrimental gas
+classified within the broader group of sulphur oxides,
+predominantly released into the atmosphere during
+the combustion of fossil fuels or materials containing
+sulphur. This chemical pose significant risks to both
+environmental integrity and human health. When
+emitted, SO2 has been documented to cause extensive
+damage to vegetation, including trees and plants, by
+inhibiting their growth and disrupting fragile ecosys-
+tems. Moreover, it contaminates water bodies, further
+compounding ecological stress.
+Beyond its environmental impact, sulphur dioxide
+is a potent contributor to human health problems. It
+has been associated with exacerbating pre-existing
+conditions of the heart and lungs, while also trigger-
+ing respiratory ailments in exposed populations. Acid
+rain, a direct consequence of SO2 emissions, poses
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 25 of 40 73
+additional risks to a wide array of natural resources
+such as trees, plants, sensitive ecosystems, and fresh-
+water streams, hampering the growth and health of
+vegetation Zhang et al., 2023.
+Furthermore, sulphur dioxide plays a pivotal role
+in atmospheric phenomena by contributing to the for-
+mation of dense fog and haze. This atmospheric con-
+dition not only reduces visibility but also complicates
+breathing, particularly affecting vulnerable demo-
+graphics Javed et al., 2021.
+Scientific studies have provided insight into the
+biological effects of SO2 exposure. Experimental
+evidence indicates that activated sulphur dioxide can
+increase micronuclei in plant species of the genus
+Tradescantia. In controlled settings, mammalian
+eggs (such as those from cows and ewes) exposed
+to SO2 in vitro, where metabolic activity is absent,
+have exhibited increased chromosome aberrations
+Wasielak-Politowska & Kordowitzki, 2022. Moreo-
+ver, correlations have been established between sul-
+phur dioxide exposure and heightened micronuclei in
+plants, as well as genetic alterations observed in Sac-
+charomyces cerevisiae, a model organism in genetic
+research as shown in Fig. 7. Limited but suggestive
+evidence also suggests that occupational exposure
+to SO2 through inhalation may induce clastogenic
+effects.
+Despite significant research efforts, numerous
+unanswered questions persist regarding the precise
+impacts of sulphur dioxide (SO2) and other sulphur
+oxides on human health. The complexity arises partly
+due to the occasional presence of sulphur dioxide
+in particulate form and its interactions with high
+humidity levels, complicating the differentiation of
+its effects from other pollutants Khalaf et al., 2022.
+Outdoor activities, especially for individuals with
+asthma, can lead to transient breathing difficulties
+when exposed to elevated concentrations of sulphur
+dioxide Reno et al., 2015.
+Individuals who suffer from asthma may experi-
+ence a decrease in lung function and symptoms such
+as wheezing, chest tightness, or shortness of breath
+when they are exposed to elevated levels of certain
+gases during moderate physical activity. This brief
+exposure can significantly impact their respiratory
+health, highlighting the vulnerability of asthmatics to
+environmental pollutants.
+"Acid rain," a term encompassing precipitation
+with high concentrations of nitric and sulfuric acids,
+poses substantial environmental and societal risks.
+These acids originate primarily from the combus-
+tion of fossil fuels, which releases nitrogen oxides
+and sulfur oxides into the atmosphere. Upon release,
+these compounds can undergo transformations in the
+atmosphere and eventually return to the Earth's sur-
+face as wet precipitation or dry deposition.
+The transport of these acidic substances over
+long distances by wind means that their effects can
+extend far beyond their original emission sources
+Wikel, 2022. When acid rain falls, it accelerates the
+process of acidification in soils and bodies of water.
+This acidification is harmful to plants and aquatic life,
+Fig. 7 Impact of Sulphur dioxide
+趋 Springer
+73 Page 26 of 40
+Water Air Soil Pollut (2025) 236:73
+making water bodies unsuitable habitats for certain
+species. Furthermore, the acidic nature of the rain
+accelerates the deterioration of important cultural and
+historical structures, including monuments, buildings,
+and sculptures.
+The state of Massachusetts has experienced signifi-
+cant environmental damage to its lakes, ponds, rivers,
+and soil due to acid rain, affecting local ecosystems
+and the organisms that depend on them Saxena et al.,
+2024c. The primary contributors to acid rain, sulphur
+dioxide and nitrogen oxides, not only increase acid-
+ity levels in natural environments but also contribute
+to the formation of fine particulate matter that poses
+health risks to humans. Sulphur dioxide, in particular,
+plays a critical role in the formation of these harmful
+particles.
+Ecosystems worldwide are adversely affected by
+acid rain, with significant impacts observed in forests
+and urban areas near industrial emissions. Urban veg-
+etation, for instance, can be particularly susceptible
+to damage from sulphur dioxide deposition Englande
+et al., 2015. Lichens, known for their sensitivity to
+environmental pollutants, serve as bio-indicators of
+air quality and struggle to thrive in areas with ele-
+vated sulphur dioxide levels.
+Efforts to reduce sulphur dioxide emissions not
+only mitigate the environmental and health impacts
+associated with acid rain but also yield secondary
+benefits. By decreasing sulphur dioxide emissions,
+strategies aimed at improving air quality can also
+reduce the formation of fine sulphate particles and
+other harmful pollutants Cui et al., 2019, Jerin et al.,
+2022. These measures are crucial for safeguarding
+both human health and the integrity of natural and
+cultural heritage sites affected by acid rain.
+4.1.4	Nitrogen Oxides
+Nitrogen dioxide (NO2) is not commonly released
+into the atmosphere in its primary form. Instead, it
+is produced through chemical interactions involv-
+ing nitrogen oxide (NO) and various other airborne
+compounds. A significant portion of NO2 in the
+environment originates from human activities, par-
+ticularly the burning of fossil fuels such as coal, oil,
+and gasoline, with vehicular emissions being a nota-
+ble contributor Sharma et al., 2024 and Saxena et al.,
+2024d. In addition to transportation, several industrial
+processes are responsible for NO2 emissions. These
+processes include the production of nitric acid, which
+is extensively used in fertilizers and explosives, as
+well as welding activities, metal refining, and oil
+refining operations. Other sources include commer-
+cial manufacturing practices and food processing
+activities Lalah et al., 2022. Through these processes,
+industries significantly contribute to the overall levels
+of nitrogen dioxide in the atmosphere, impacting air
+quality and public health.
+Natural sources like bacteria and volcanic activity
+also release nitrogen oxides into the environment in
+significant quantities. The control of combustion pro-
+cesses plays a crucial role in managing NOx emissions.
+Strategies involve adjusting combustion parameters
+to lower peak temperatures, reducing the time spent
+at high temperatures, and optimizing oxygen levels in
+combustion zones Abdel-Shafy & Mansour, 2018. It's
+noteworthy that NOx production increases exponen-
+tially at temperatures exceeding 1200 degrees Celsius.
+Nitrogen dioxide primarily impacts human health
+through its effects on the respiratory system. Children
+are particularly vulnerable, with exposure to NO2
+linked to increased susceptibility to respiratory infec-
+tions and potential long-term impacts on lung func-
+tion. Elevated NO2 levels in ambient air are associ-
+ated with higher rates of hospitalizations and deaths
+related to respiratory disorders. Moreover, NO2 can
+compromise the lungs' natural defenses against bacte-
+ria, potentially worsening asthma symptoms and res-
+piratory conditions Cunillera-Montcusi et al., 2022.
+Table 3 categorizes different types of nitrogen
+oxides and highlights their various industrial and
+environmental applications. This classification helps
+in understanding the diverse sources and uses of
+nitrogen oxides, underscoring their significance in
+both natural and industrial settings.
+4.1.5	Polycyclic Aromatic Hydrocarbons
+Carbohydrates, crude oil, and petrol are examples of
+compounds that include polycyclic aromatic hydro-
+carbons (PAHs), a group of chemicals characterized
+by multiple fused aromatic rings. PAHs are pro-
+duced during the incomplete combustion of organic
+materials such as coal, tobacco, oil, and gas. This
+process can lead to the direct formation of PAHs
+or their attachment to airborne particles, which can
+be inhaled or deposited on surfaces. Additionally,
+high-temperature cooking methods, like grilling or
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 27 of 40 73
+Table 3 Uses of NO2 and NO		
+Use	Nitrogen dioxide (NO2)	Nitric oxide (NO)
+Catalyst in the production of nitric acid for fertilizers Bleaching agent for flour Nitrating agent for chemical explosives Intermediary in nitric acid production Room temperature sterilizing agent Polymerization inhibitor for acrylates Oxidizer in rocket fuel Lowers blood pressure and improves blood flow Potential medical uses in supplements for specific disorders Naturally produced in the human body, crucial for blood vessel healing	✓	Cunillera-Montcusi et al., 2022 ✓	Cunillera-Montcusi et al., 2022 ✓	Cunillera-Montcusi et al., 2022 ✓	Cunillera-Montcusi et al., 2022 ✓	Cunillera-Montcusi et al., 2022 ✓	Cunillera-Montcusi et al., 2022 ✓	Cunillera-Montcusi et al., 2022	✓Dorantes-Aranda, 2023 ✓Dorantes-Aranda, 2023 ✓Dorantes-Aranda, 2023
+barbecuing meat, can generate significant amounts of
+PAHs, contributing to their presence in the environ-
+ment and in food.
+Naphthalene, a specific synthetic PAH, is com-
+monly utilized in the United States for manufacturing
+mothballs and various other chemical products due
+to its properties. The burning of tobacco in cigarettes
+is another major source of PAHs, releasing numer-
+ous types into the air, which can pose health risks to
+smokers and those exposed to second-hand smoke.
+Therefore, PAHs are prevalent in many everyday sce-
+narios, from industrial activities to household prac-
+tices, highlighting the widespread nature of these
+potentially hazardous compounds.
+In rural regions, the major contributors to PAH
+pollution stem from domestic and agricultural activi-
+ties. These include practices like burning crop resi-
+dues, using solid fuels for cooking and heating, and
+applying chemical treatments to crops. Conversely,
+in urban environments, PAH contamination primar-
+ily originates from industrial processes, vehicular
+emissions, and various residential sources. The dense
+network of transportation, extensive industrial opera-
+tions, and routine domestic activities like cooking and
+heating significantly add to the urban PAH load.
+PAH concentrations exhibit notable seasonal
+fluctuations, reaching their peak during the win-
+ter months. This is followed by a gradual decrease
+through spring and autumn, with the lowest levels
+observed in summer. Several factors contribute to this
+seasonal pattern. During winter, the incomplete com-
+bustion of fossil fuels is more prevalent due to height-
+ened heating needs, which leads to higher emissions
+of PAHs. Additionally, the colder temperatures and
+reduced sunlight in winter hinder the photodegra-
+dation of PAHs, causing these pollutants to persist
+longer in the environment. Poor atmospheric diffusion
+conditions, such as calm winds and low temperatures,
+further exacerbate the accumulation of PAHs during
+the colder months, as these meteorological conditions
+limit the dispersion and dilution of airborne pollut-
+ants Georgaki et al., 2023.
+PAHs tend to accumulate in soil and sediment,
+which can result in the contamination of groundwater,
+plants, and the food chain. When PAHs are present in
+the environment, they can seep into the soil and per-
+sist for long periods due to their chemical stability.
+This persistence leads to significant environmental
+contamination. For example, PAHs in contaminated
+soil can be taken up by plant roots and then trans-
+ported to other parts of the plant, including leaves,
+stems, and fruits. This process means that PAHs can
+enter the food chain when humans and animals con-
+sume these plants. The widespread presence of PAHs
+in the environment makes exposure to these harm-
+ful compounds almost unavoidable. Individuals can
+be exposed to PAHs through three main pathways:
+inhalation, ingestion, and skin contact. Inhalation can
+occur when PAHs are present in the air, particularly
+in areas with significant industrial emissions or where
+combustion processes, such as vehicle exhaust or
+tobacco smoke, release these compounds. Ingestion
+happens when PAHs enter the body through consum-
+ing contaminated food or water. Finally, skin contact
+with contaminated soil or water can also lead to PAH
+absorption Steinmaus, 2016.
+To minimize cancer risk, it is crucial to consider a
+no-effect threshold when assessing the health risks of
+趋 Springer
+73 Page 28 of 40
+Water Air Soil Pollut (2025) 236:73
+PAHs. This threshold helps determine safe exposure
+levels, ensuring public health protection by identify-
+ing the amount of PAH exposure that does not signifi-
+cantly increase cancer risk. This approach is particu-
+larly important for certain PAHs, which are known
+to be carcinogenic air pollutants Howard et al., 2021.
+According to the WHO, existing guidelines for BaP, a
+specific type of PAH, may not provide sufficient pro-
+tection against health issues other than cancer. Con-
+sequently, ongoing research is necessary to explore
+the health impacts of PAH exposure beyond cancer,
+including their effects on other health endpoints.
+In aquatic and marine environments, PAHs can
+have detrimental effects on cardiovascular health,
+impacting all life stages of fish. The heart, being a
+vital organ, plays a critical role in extracting oxygen
+from the environment and delivering it to the mito-
+chondria within cells. Damage to the heart caused by
+PAH exposure can therefore have far-reaching conse-
+quences for aquatic life Schwartz et al., 2021.
+Furthermore, PAHs are not limited to environmen-
+tal pollution but are also found in various categories
+of food and beverages. This widespread presence
+makes PAHs a significant concern for both environ-
+mental health and food safety Seo et al., 2023. The
+comprehensive study of PAHs and their impacts
+remains crucial to developing effective guidelines and
+protective measures against their harmful effects.
+PAHs represent a complex compound consisting
+of both lighter and heavier molecules. Among these,
+BaA, Chr, BbF, and BaP are identified as the princi-
+pal PAHs found in foods according to the European
+Commission Omarova et al., 2018. These compounds
+can contaminate food through various pathways,
+including production processes and environmental
+pollution.
+PAHs originate from multiple sources such as the
+production and utilization of coal, oil, and petro-
+leum products, as well as the combustion of wood
+and other plant materials. Soil contamination can
+occur when these substances are burned, leading to
+PAHs being present in agricultural lands where food
+is grown Wang & Qian, 2021. Furthermore, inten-
+tional industrial processes like the cracking of com-
+plex hydrocarbons in petroleum can produce what
+are known as pyrogenic PAHs. Urban areas, due to
+higher concentrations of industrial activities, often
+experience elevated levels of these PAHs Koutsoyian-
+nis, 2021.
+The impact of PAHs extends beyond their chemi-
+cal structure. They are known to absorb visible and
+UVA light and can generate reactive species and
+intermediates. These reactive compounds have the
+potential to cause harm to biological structures such
+as cell membranes, nucleic acids (DNA and RNA),
+and proteins Skendzic et al., 2021.
+Table 4 provides a comparative assessment of air
+pollutants, focusing on CO, SO2, and PAHs. It high-
+lights their sources, key reactions, health and environ-
+mental effects, and strategies for mitigation, empha-
+sizing the complexity of addressing diverse pollution
+challenges.
+Research efforts have been dedicated to under-
+standing human exposure to PAHs through diet
+and their overall environmental contribution San-
+difer et al., 2015. This underscores the importance of
+monitoring and controlling PAH levels in food pro-
+duction and processing to mitigate potential health
+risks associated with these ubiquitous environmental
+pollutants.
+4.2 Air Pollution and Human Health
+Exposure to elevated levels of air pollution poses
+numerous adverse consequences for physical health.
+Individuals exposed to such pollution face increased
+risks of developing respiratory infections, heart prob-
+lems, and lung cancer Sheoran et al., 2022. These
+health impacts can manifest both in the short term,
+causing immediate discomfort and illness, and in the
+long term, contributing to chronic conditions and
+reduced life expectancy. Moreover, individuals who
+already suffer from pre-existing health conditions are
+particularly susceptible to exacerbated symptoms and
+complications due to air pollution.
+Children, whose respiratory systems are still devel-
+oping, are at risk of long-term respiratory issues.
+The elderly, whose immune systems may be com-
+promised, are more likely to experience severe health
+consequences from pollution exposure. Addition-
+ally, socioeconomically disadvantaged populations,
+including those with limited access to healthcare and
+living in polluted urban areas, face heightened risks
+Sheoran et al., 2022.
+Among the pollutants, PM2.5 particles are espe-
+cially harmful to human health. These fine particles
+are small enough to penetrate deep into the lungs,
+leading to respiratory and cardiovascular problems.
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 29 of 40 73
+water	ecosystems
+Natural sources: forest	Foster research on biore- Wang & Qian, 2021,
+fires	mediation of contami-	Skendzic et al., 2021,
+nated sites	Saxena et al.,n.d
+の 10Nwnmuul^cz)
+§<Nち ppgjsc
+izoz でぎ^
+£8Z gs4=lN
+sc°praJnM°J 一c°m
+-9§BUBUI 91SB 豸 J°-0TJ1Q
+(SJ°qqnJ°s
+"JsJy) SJOJSO°suoys
+-STUI°puisnes°°§qcw
+S9APBS91amj°c9
+°JqraM°c°J 91〇日0
+SC°TSSTUI9
+ペ0co sdra°£IOap§9^
+S9'a-ocq°91 uop
+-BZTJnqaJns0で一c°日-amj
+suibsas JsraA\ s
+slc9m—P9S 1°c°TacTmra一
+—coo でCBww°d x~SJ°Ay で 〇—g
+-mW
+-eJM°で moj 〇^°3で一c°m
+-COJTAC°s lc°lsTSJ°tJ
+XHA-°np>OJd
+PJnlJn°TJMB s°°n で0j uo-
+-eosPTOB~os uns-Muoq
+uopn-od JBCOTM9J
+l3cl Iqs-uns
+-00y°J S°SOJ°B°-01q-n9
+^JnlonJlsBJJS で§
+"nos»UI°一sAs~snbra
+s°MBmraで SBJ で'3'v
+◦TIBnbB で § JmJlsoJJ°一
+sldss-cOTl-nu!n°
+loss :^lc°mc°.nAcw
+J°-01A\/で0eg
+で0一mnmralco°でCBcOTaJ
+-eqs qgnojq;一°Jnsodx°
+t°TcoMom°JraJ :-Jra°K
+でCB~°s°ロc°で0-sod°で
+J°sc°Tl°ra°J^°TUIoq°
+1010qd Aq で0で BJM°Q
+A1T0TX01MmsB9bm
+-s°一-n-p^d 01 psq
+§0 sKvd°TJ°qdsouIlv
+s°ss°°OJd Jm-sn でs
+でCBsnraqx°-gqg^
+(sl0np>OJa
+mn-OJPd-OOM JBO-
+SJmJ°一bui で0SBq-coqJra°
+jo uopsnclmo0°l-dmo°cJ
+s°ss°°OJd Jm-
+-sn でs pcraSU-PUIS J-°s
+SKVd
+寸 003 J&PK
+ZZOZ コ5
+ZZOZ p SJOaqs
+sc°—一B——ralss Jop°-0p
+Ou joj scMIBamra°°nqnj
+s—°m J°§°p 〇*-c°—一—scraJJ
+S°PS°A
+JOJ SJ°1J0AC0°OT1APSJ
+SUI°1S»〇00
+SSI005601COTSで BJM°で
+xlqranb-B^co'a°x
+co—pnpojd°c°z°
+01 s°lna—Jso°一nc{-00fc°
+MJBqo-p°-で oz
+~os で §
+S°T で 〇ム J°一BM JOCOT1B°
+-SPTCrv :^lc°mco-ACw
+s°ns-J-n°sraAOTPJB°
+01で05tu-°Jnsodx°SJS
+-Mc-t-_-Bd"01B-d
+_S°J s°一msj :-Jra°K
+-°s°J°ra
+°lraqd—ns 〇*-
+SBJ で T°B 〇*-Ms で B-
+-stoui joo°cos°Jd°ql
+s a—°raUTJnqdps suijo ふ
+SC°TSSTUI°UIUB-O^
+(SBS^Jnau f~o
+Jrao°)-°nj gssBlco0
+—Jnqdjns jocOTlsnclmou
+ds
+c°—1Buneg
+Molus u—dz 1 s30>
+S°SKUIV :JBS°日UO-ACW
+Mscos—oa°1SB で §
+pixodAqMc—snra°dTcloJM
+_OUI°q-TM spu—g :q-raoK
+slc°mc°J—Ac°
+imcpnc—OCONO—°A°—
+I でcnoJMJ°c°praGJOI
+°qlc—°sd で0GJSCJ
+W03 uijcg 01°J°qa
+-SOUIa°~c—で0--xo
+scocpra0OJ で Aq q~M
+SCO—l°ra°J—B°—m°q°010qj
+(s°ss°°OJd
+—mjlsn でc—"〇^ロで-参
+»°—°3°>) s—°nj T—SSOJ H°
+co—Isnclmo0°1°—dmo°cJ
+8
+Table 4 Comparative assessment of air pollutants: CO, SO2, and PAH
+Pollutant Sources	Key Reactions and Trans- Effects	Long-term Environmental Mitigation Strategies Ref
+formations	Impact
+必 Springer
+73 Page 30 of 40
+Water Air Soil Pollut (2025) 236:73
+They have been directly linked to increased mortal-
+ity rates, particularly affecting vulnerable populations
+Maciejczyk et al., 2021. The variability in health
+impacts from air pollution depends on multiple fac-
+tors, such as age, geographical location, overall health
+status, and lifestyle choices.
+Factors such as residential proximity to industrial
+facilities, traffic congestion, and inadequate environ-
+mental regulations contribute to higher pollution lev-
+els in these communities Robb & Techtmann, 1981.
+Consequently, these populations are more likely to
+suffer from the negative health effects associated with
+air pollution, perpetuating health disparities Sellami
+and Elleuch, 2024.
+Regular exposure to wood smoke presents another
+significant health concern. Wood smoke contains a
+complex mixture of pollutants that pose significant
+risks to respiratory health. Among these pollutants
+are fine particles, which can penetrate deep into the
+lungs and cause various respiratory issues. VOCs are
+also present in wood smoke, and they contribute to
+air pollution and can irritate the respiratory system.
+Additionally, wood smoke contains CO, a toxic gas
+that can interfere with the oxygen-carrying capacity
+of blood, leading to potential respiratory and cardio-
+vascular problems. Dioxins, another component of
+wood smoke, are highly toxic compounds that can
+have long-term health effects, including respiratory
+issues and an increased risk of cancer. The combi-
+nation of these pollutants in wood smoke can have
+severe adverse effects on respiratory health, making it
+a significant environmental and public health concern
+Marques et al., 2021. This underscores the impor-
+tance of addressing not only industrial and vehicular
+sources of air pollution but also household sources
+like wood burning to mitigate health risks.
+Wood smoke, beyond just containing soot, gases,
+and wood tars, encompasses a diverse array of other
+substances. The short-term exposure to fine particu-
+late matter present in the air due to wood smoke can
+notably exacerbate existing lung conditions, provoke
+asthma attacks, and lead to episodes of acute bron-
+chitis. Furthermore, this exposure can potentially
+elevate the risk of respiratory infections, posing sig-
+nificant health risks to those affected. Research has
+also identified a link between brief exposures to these
+particles and occurrences of irregular heartbeats and
+heart attacks during clinical trials Ishika (2023). Fur-
+thermore, these fine particles are associated with the
+development of several serious diseases, including
+COPD, chronic bronchitis, cardiovascular disease,
+and there is even evidence suggesting a possible link
+to lung cancer.
+Ozone, normally beneficial high in the atmosphere
+where it protects us from harmful ultraviolet radiation,
+becomes problematic at ground level as a component
+of smog. This ground-level ozone forms when oxygen
+oxides and volatile organic compounds, both products
+of fossil fuel combustion, react in the presence of sun-
+light Zhang et al., 2023. Exposure to ozone, even for a
+short duration, can result in a variety of acute symp-
+toms including chest pain, persistent coughing, and
+throat irritation. These immediate health effects can
+be quite discomforting and indicative of the body's
+adverse reaction to the pollutant. When exposure
+extends over a longer period, the health implications
+become more serious and enduring. Long-term expo-
+sure to ozone is associated with the gradual deterio-
+ration of lung function. This decline can manifest in
+reduced breathing capacity and overall respiratory
+efficiency. Furthermore, there is a significant cor-
+relation between prolonged ozone exposure and the
+heightened risk of developing COPD.
+In addition to these risks, continuous exposure to
+ozone can exacerbate pre-existing lung conditions.
+Individuals with respiratory ailments such as asthma,
+bronchitis, and emphysema may experience a wors-
+ening of their symptoms. Over time, the severity of
+these conditions can increase, leading to more fre-
+quent and intense episodes of respiratory distress.
+This cumulative effect highlights the insidious nature
+of ozone as a persistent environmental hazard, capa-
+ble of inflicting long-lasting damage to respiratory
+health Gautam et al., 2023.
+The combustion of sulphur-containing fossil fuels
+results in the emission of sulphur dioxide gas into the
+atmosphere Naidu et al., 2021. This substance aggra-
+vates asthma symptoms, irritates the eyes, and can
+cause respiratory infections due to its negative impact
+on the circulatory system. Furthermore, sulphur diox-
+ide is an essential component of acid rain, which is
+responsible for the devastation of ecosystems world-
+wide due to sulphuric acid, a result of sulphur diox-
+ide's reaction with atmospheric water.
+Collaborative efforts among experts from vari-
+ous disciplines, including epidemiology, human
+observation, and toxicology, are underway to com-
+prehensively assess the impact of air pollution on
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 31 of 40 73
+vulnerable populations Wang et al., 2022. Their pri-
+mary objective is to devise effective strategies aimed
+at safeguarding public health, with a particular focus
+on individuals. To achieve this, it is crucial to com-
+prehend the entire range of health impacts that result
+from both short-term and long-term exposure to
+smoke generated by wildfires and controlled burns.
+These types of fires, collectively known as "wildland
+fires," pose significant risks. Therefore, a thorough
+understanding of the health effects associated with
+wildland fire smoke is essential for accurately assess-
+ing these risks and implementing appropriate mitiga-
+tion measures Pingali, 2012.
+4.3 Air Pollution's Effects on the Environment
+Air pollution stands as a formidable challenge in con-
+temporary society Siddiqua et al., 2022. Its impact
+extends across multiple dimensions, contributing
+significantly to climate change and profoundly affect-
+ing public and individual health. The consequences
+are stark, with elevated rates of disease and mortal-
+ity directly linked to exposure to pollutants Srivastava
+et al., 2023. Furthermore, climate change exacerbates
+these health risks by prolonging pollen seasons and
+fostering conditions favourable for the proliferation
+of allergenic air pollutants such as mold and pollen,
+driven by more frequent and intense weather events
+and increased flooding Ewuzie et al., 2021.
+The crucial impact of GHG, especially CO2
+and CH4, is central to the climate change problem.
+These gases are crucial in modifying the dynamics
+of Earth's climate. The role of these GHG in driving
+climate change underscores the urgency of addressing
+emissions to mitigate their far-reaching consequences
+Srivastava et al., 2024. Notably, in 2018, the United
+States' GHG emissions predominantly comprised car-
+bon dioxide (81%) and CH4 (10%) Srivastava & Roy,
+2023.
+Figure 8 illustrates how air pollution affects the
+environment, including climate change, ecosystem
+degradation, and health impacts on flora and fauna. It
+emphasizes the interconnected nature of these effects,
+underscoring the urgency of mitigation strategies.
+Recent studies Srivastava & Roy, 2023 highlight
+the significant environmental impacts of oil and gas
+drilling, particularly in the context of methane emis-
+sions. These pollutants not only alter the chemi-
+cal composition of these environments but also lead
+to the release of harmful metals and the depletion
+of essential nutrients in freshwater and forest soils.
+These changes have detrimental effects: low pH levels
+in freshwater can lead to the death of fish populations,
+while in forest soils, nutrient loss can result in forest
+degradation.
+In recent decades, efforts to reduce sulphur dioxide
+emissions have been successful in mitigating acidifi-
+cation issues. However, ground-level ozone remains
+a significant threat to vegetation. Ozone, which pen-
+etrates plant leaves, disrupts the process of photosyn-
+thesis, thereby hindering plant growth. Widespread
+changes to ecosystem structure, as well as decreases
+in habitat quality and biodiversity, have been associ-
+ated to elevated amounts of ozone in the ground. In
+agricultural settings, ozone pollution can reduce crop
+yields and impair forest growth.
+Fig. 8 Impact of air pollution on the environment
+趋 Springer
+73 Page 32 of 40
+Water Air Soil Pollut (2025) 236:73
+In terrestrial ecosystems, nitrogen deposition from
+the atmosphere can lead to eutrophication under cer-
+tain conditions. When nitrogen deposition surpasses
+critical loads, it can trigger dangerous levels of
+eutrophication, affecting ecosystem health and bio-
+diversity. The concept of "critical load" emphasizes
+that exceeding certain pollution thresholds can dis-
+rupt both terrestrial and aquatic ecosystems, altering
+the composition and diversity of species. Conversely,
+keeping pollution levels below these critical thresh-
+olds allows ecosystems to absorb deposited pollutants
+without significant disruption.
+Particulate matter (PM) pollution, including PM10
+and PM2.5, also poses serious health risks. Coarse
+particles can affect the nasal and upper respiratory
+systems, while fine particles, due to their smaller size,
+can penetrate deeper into the lungs and even enter the
+bloodstream. Also, research shows that kids whose
+exposure to PM2.5 levels are higher may have prob-
+lems with brain development.
+Overall, understanding and mitigating the envi-
+ronmental and health impacts of these pollutants are
+crucial for sustainable development and public health
+protection. Continuing research and effective policies
+are essential to address these complex challenges and
+minimize their detrimental effects on ecosystems and
+human well-being.
+Table 5 highlights the direct correlation between
+pollutant exposure and its impact on human health,
+emphasizing vulnerable groups at higher risk.
+5	Conclusion
+The challenges posed by human-induced pollution
+and climate change demand urgent, multifaceted
+action. Below are the key takeaways and implications
+for addressing these issues effectively:
+• Human Contribution to Pollution:
+Human activities are the primary drivers of
+water and air pollution, contributing signifi-
+cantly to climate change.
+Solutions require collective responsibility and
+comprehensive strategies across societal and
+economic systems.
+• Environmental Preservation and Restoration:
+Immediate Action: Investments are needed to
+rectify ecological damage caused by pollution.
+Sustainable Practices: Adoption of emission-
+reducing technologies, conservation of natural
+resources, and biodiversity promotion are critical.
+Restoration Initiatives: Beyond preventing
+degradation, proactive restoration of habitats
+ensures thriving ecosystems.
+• Educational and Technological Advancements:
+Public awareness campaigns can shift behaviors
+like littering and deforestation.
+Advanced technologies targeting industrial and
+power plant emissions are crucial for mitigating
+air pollution and aligning with global environ-
+mental objectives.
+•	Policy and Governance:
+Governments must create evidence-based poli-
+cies that address the broad impacts of pollution
+on public health and ecosystems.
+Local frameworks tailored to specific environ-
+mental conditions can serve as models for inter-
+national adoption.
+•	Role of Research and Innovation:
+Ongoing research is vital for discovering inno-
+vative pollution mitigation strategies.
+Integrating research findings into policy ensures
+adaptive and forward-looking environmental
+health strategies.
+• Global Implications:
+Efforts at local and regional levels collectively
+contribute to global sustainability.
+Coordinated international action, inspired by
+successful local practices, is imperative for
+managing climate change and pollution at scale.
+趋 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 33 of 40 73
+〇^ 〇 〇 で to ■g		Children, elderly, indi-	〇 ■ >—1 〇^ 〇 _C +f (Z) 73 3 r〇 ■>	(Z) C 〇 ;〇 c 〇 〇	;〇 c ■>—i tzT c 〇 苗 〇^ 〇 〇^ § ロ	CJ) C -1—く (Z) ■ >—1 X 〇 〇^ •C (Z) 73 で '>	(Z) C 〇 ;〇 C 〇 〇 CJ) C 3	nT S _c nJ _C +f 芯 〇 〇 cu	〇 で "〇 〇 で 三 〇	IS 〇 ムs 〇 〇 で □ 〇	•C 'I (Z) 1—1 nJ で '> ;〇 C C 〇 で	nJ S _C -i—< (Z) nJ	で C 〇 〇 -1—く nJ 〇 •C •C +f 〇 芯 〇 〇 CU	C 〇 S 〇 食 C nJ C CJ) 〇 〇^ tzT C 〇 -1—く	C nJ □ tzT 〇 川 73 ■>—1 -1—く (Z) で C 1—1	(Z) c 〇 苗 〇^ 〇 〇^	C nJ C CJ) 〇 〇^ 〇 で IS U	C 〇 S 〇 食		tzT 〇 ゼ 〇 食 73 &D	nJ S _C -i—< (Z) nJ _C (Z) 1	1 nJ 3 r〇 '> ;〇 C
+〇 〇 S 3 Z S CJ) c 〇	另 S 1—1	7% increase (mortality),	CJ) c 〇 (Z) nJ 〇 〇 C 椽 W"; T—I	S' (Z) ■ >—i 〇 〇 C nJ 〇	川 (Z) ■ >—1 〇 •C CJ) 玄 凌 T—I			〇 •s 〇 _C 〇 (Z) nJ 〇 C 椽 〇 cn	Z	\ (Z) IS 〇 C 〇	nJ S _C nJ C 〇 (Z) nJ 〇 C 椽 (N T—I	川 (Z) ■ >—1		C nJ □ C 〇 (Z) nJ 〇 〇 C 椽 W"; T—I	(Z) nJ 〇 c3	■ぎ C 〇 (Z) nJ 〇 〇 C 椽 〇 W";	川 (Z) ■ >—1 S_i 〇 (Z) nJ 〇 (Z) ■ >—1 で	川 (Z) ■ >—1 〇 •C CJ) IS X cn			&D C 〇 で 〇 ,〇 曳 凌 W";	〇 (Z) 〇 〇^ 〇 S 況
+•C 〇 S CJ) C 〇	Effects	Cardiovascular mortal-	ムS (Z) ■	>—i S-I 〇 〇 C nJ 〇 CJ) C 3 さ ■	>—i		"〇 > 〇 で nJ S •C -1—く (Z) nJ 〇 •S 〇 •C U	C 〇 で 玄 C C 〇 S 〇^ 〇		tzT IS C 〇 〇 •s 〇 _C U	〇 (Z) nJ 〇 (Z) ;〇 〇 _C	c 〇 S 〇^ 〇 "〇 > 〇 で nJ S _c -1—< (Z) <	〇 CJ) nJ S nJ で CJ) C 3		JZ2 C 〇 > 〇 nJ 〇 (Z) nJ > 〇 ;〇 nJ U		〇 C '〇 〇 〇 (Z) nJ 〇 (Z) ■ >—1 で 〇 > □	(Z) -1—く 〇 ,〇 to 〇 〇 'S 〇 CJ)	で C nJ 另 〇 (Z) nJ > 〇 ;〇 nJ U	(Z) 〇 (Z) nJ 〇 (Z) ■ >—1 で 〇 C で Im		nJ S _C nJ で 〇 苗 莞 CJ) CJ) <	(Z) s 〇 K S (Z)
+〇 S 3 Z S -1—く 〇 •C C/3	〇 nJ 〇^ S 1—1	10% increase per 10 ^g/	(Z) i—i 〇 > W"; S cu <r> S		C 〇 (Z) nJ 〇 〇 で 凌 〇 1 〇	C ■ >—1 (Z) -1—く (Z) 〇 C 〇 〇 C CJ) C 3	C 〇 で 玄 〇	c 〇 (Z) nJ 〇 C 椽 〇 T—1 1 W")	(Z) -i—< ■	>—i (Z) ■	>—1 > で 〇 苗 "〇 nJ s _c -i—< (Z) nJ	c c 〇 〇 で 〇 凌 〇 1 〇 T—I	CJ) IS c 〇 '〇 nJ 〇^ nJ 〇 CJ) C 3	(Z) を で 〇 C 〇 〇	〇 〇^ 〇 "〇 > 〇 CJ) S	士 〇 S 〇^ 〇^ 〇 A 〇 (Z)	C .2 CJ) 〇 で 〇 〇 (Z)	■〇 〇在 〇 cK to 7〇 〇 >や 〇 1 〇	〇 (Z) 〇 〇^ 〇	で 〇 ,〇 to nJ 凌 〇 W"; 1 W"; (N	で 〇 〇 CJ) 〇 T—I A 苗	(Z) 1—1 〇 > 〇 で nJ	73 球 nJ 〇 凌 〇 '〇	で 〇 〇 ,〇 to nJ (Z) 〇 ゼ
+•C 〇 K S 〇 -1—く 〇 •C C/3	Effects	Increases respiratory	tzT c 〇 五 (Z) 〇 _c	nJ S _C -i—< (Z) nJ で 〇 句 § CJ) CJ) nJ	tzT r 上 nJ 〇 C 〇 苗 •ヒ 1—1	C 〇 〇 C 汩 CJ) C 3 で 〇 で 〇		nJ s _c nJ ci) C •S 〇 〇 _c 衾	(Z) -i—< ■	>—i (Z) ■	>—i > M で 〇 苗 r〇	さ '〇 nJ & nJ 〇 CJ) C 3 で 〇 〇 で 〇	C 〇 苗 ■ >—1 ■ >—i 〇 _C -i—<		〇 > 'S CJ) 〇 〇 tzT (Z) 〇 c •s N Q	-1—く C 〇 S 上 nJ 〇^ S ■ >—1	(Z) 〇 •C 〇 nJ で nJ 〇 •C 〇 苗 ■ >—1 ■ >—1 氏 M		C ■ >—1 (Z) ゐ nJ "〇 で 73 C 〇 S 〇^ 〇 ぎ 〇 Q	C 〇 で IS		土 ■ >—1 ■ >—1 〇 nJ -1—く 〇 苗 ■ >—1 〇^ (Z) 〇	C .2
+〇 〇 C/3		Combustion (vehicles,	(Z) 〇 (Z) (Z) 〇 〇 〇 〇^ 73 ■>—1 -1—< (Z) で C	(Z) 〇 CC で	tzT C 〇 ■ >—1 (Z) (Z) ■ >—1 S 〇 〇 7j 三 会	(Z) で C ■ >—1 tzT -1—く C nJ 芯 〇 良 〇 〇^	(Z) 〇 nJ 73 ■ >—1 -1—く	co "〇 ■ >—1 (Z) (Z) 召 〇 CJ) c •s	z—\ '6 73 〇	IS &P "S (Z) 〇 C 〇 〇 nJ 〇	(Z) u で c nJ X 〇 Z _c +,		c 〇 -1—< (Z) 3 X) s 〇 〇 〇 〇 芯 S 〇 〇 C 1—1	(Z) 1—1 〇 ■ >—1 (Z) (Z) 召 〇	r〇 IS 〇 > (Z) -1—< C 〇 > 7〇 (Z) tzT -1—く C 'c3 cu	(Z) C 〇 ■ >—1 (Z) (Z) ■ >—1 S 〇	tzT C 〇 ■ >—1 (Z) (Z) ■ >—1 S 〇 73 ■>—1 -1—く (Z) で C 1—1	S nJ C 〇 〇 tzT 1—1 〇 で 〇 で nJ	〇 句 良 で 〇 苗 C	tzT 〇 nJ 73	c 〇 S 〇 CJ) nJ C nJ S (Z)
+C 匁 □ 7〇 CU		Particulate Mat-	irT S cu ■—	〇 T—I cu	〇 Z			〇 C/3		〇			〇 U		(Z) u		で nJ 〇			cn K Z	
+sl°Bdun °q JT°ql でCB slu--pd jib Sno—JBAc99Ml°q d3scOIl-°J°ql MSZTJBUIUIns n-qex
+必 Springer
+73 Page 34 of 40
+Water Air Soil Pollut (2025) 236:73
+By uniting these efforts—ranging from education
+to policy reform and technological innovation—soci-
+eties can address the pressing challenges of environ-
+mental degradation and climate change, ensuring a
+healthier planet for current and future generations.
+Funding Not Applicable.
+Data Availability All the results is original, availability of
+data and materials has not been used in this manuscript.
+Declarations
+Ethical approval All authors have read, understood, and have
+complied as applicable with the statement on "Ethical responsi-
+bilities of Authors" as found in the Instructions for Authors and
+are aware that with minor exceptions, no changes can be made
+to authorship once the paper is submitted.
+Consent to Participate The authors of this manuscript are all
+aware of the journal to which the manuscript was submitted, and
+all agree to continue to support the follow-up work.
+Consent to publication.
+Not Applicable.
+Competing Interest The authors declare no competing inter-
+ests.
+References
+Abdel-Shafy, H. I., & Mansour, M. S. M. (2018). Solid
+waste issue: Sources, composition, disposal, recycling,
+and valorization. Egyptian Journal of Petroleum, 27,
+1275-1290.
+Adamo, N., Al-Ansari, N., & Sissakian, V. (2021).Review
+of climate change impacts on human environment:
+Past, present and future projections. Engineering,13,
+605-630.
+Adams, G. O., Ogedegbe, P. E., & Tawari-Fufeyin, P. (2016).
+Assessment of presence of heavy metals and other pollu-
+tion burden parameters and their effect on water quality
+in Benin City. Environmental Quality Management, 26,
+65-87.
+Adla K, Dejan K, Neira D, Dragana S. Degradation of eco-
+systems and loss of ecosystem services. One Heal.
+2022;281-327.
+Agbasi JC, Egbueri JC, Ayejoto DA, Unigwe CO, Omeka ME,
+Nwazelibe VE, Ighalo JO, Pande CB, Fakoya AA. The
+Impact of Seasonal Changes on the Trends of Physico-
+chemical, Heavy Metal and Microbial Loads in Water
+Resources of Southeastern Nigeria: A Critical Review.
+2023;505-539.
+Alao, J. O., Fahad, A., Abdo, H. G., Ayejoto, D. A., Almo-
+hamad, H., Ahmad, M. S., Nur, M. S., Danjuma, T. T.,
+Yusuf, M. A., Francis, O. T., & Joy, A. O. (2023). Effects
+of dumpsite leachate plumes on surface and groundwater
+and the possible public health risks. Science of the Total
+Environment, 897, 165469.
+Aliyu, A., & Amadu, L. (2017). Urbanization, cities, and
+health: The challenges to Nigeria - a review. Annals of
+African Medicine, 16, 149.
+Almusawi, M. B. H., Karim, A. T. B. A., & Ethaib, S. (2022).
+Evaluation of construction and demolition waste man-
+agement in Kuwait. Recycling, 7, 88.
+Archer, E. J., Baker-Austin, C., Osborn, T. J., Jones, N. R.,
+Martinez-Urtaza, J., Trinanes, J., Oliver, J. D., Gonzalez,
+F. J. C., & Lake, I. R. (2023). Climate warming and
+increasing Vibrio vulnificus infections in North America.
+Science and Reports, 13, 3893.
+Arora, G., Sharma, T., Kashyap, T. K., Pant, P., Gupta, C., &
+Sharma, R. K. (2023). Rejuvenation and Restoration of
+Surface Water Quality Amid COVID-19 Lockdown: A
+Comprehensive Review in Indian Context. Environmen-
+tal Engineering Research., 28(3), 220144.
+Arora K, Kumar P, Bose D, Li X, Kulshrestha S. Potential
+applications of algae in biochemical and bioenergy sec-
+tor. 3 Biotech. 2021; 11:296.
+Ateia, M., Kanan, A., & Karanfil,T. (2020). Microplastics
+release precursors of chlorinated and brominated disin-
+fection byproducts in water. Chemosphere, 251, 126452.
+Ayejoto, D. A., Egbueri, J. C., Enyigwe, M. T., Chiaghanam,
+O. I., & Ameh, P. D. (2022). Application of HMTL
+and nove l IWQI models in rural groundwater quality
+assessment: A case study in Nigeria. Toxin Reviews, 41,
+918-932.
+Ayejoto DA, Egbueri JC. Human health risk assessment of
+nitrate and heavy metals in urban groundwater in South-
+east Nigeria. Acta Ecologica Sinica2023.
+Ayejoto DA, Egbueri JC, Agbasi JC, Omeka ME, Unigwe
+CO, Nwazelibe VE, Ighalo JO, Pande CB. Influence of
+Seasonal Changes on the Quality of Water Resources in
+Southwestern Nigeria: A Review. 2023;423-447.
+Azanu D, Adu-Poku D, Saah SA, Appaw WO. Prevalence of
+Pharmaceuticals in Surface Water Samples in Ghana.
+Journal of Chemistry. 2021;1-11.
+Babcock-Jackson, L., Konovalova, T., Krogman, J. P., Bird, R.,
+& Diaz, L. L. (2023). Sustainable fertilizers: Publica-
+tion landscape on wastes as nutrient sources, wastewater
+treatment processes for nutrient recovery, biorefineries,
+and green ammonia synthesis. Journal of Agriculture and
+Food Chemistry, 71,8265-8296.
+Bala, G.-P., Rajnoveanu, R.-M., Tudorache, E., Motisan, R., &
+Oancea, C. (2021). Air pollution exposure—the (in)vis-
+ible risk factor for respiratory diseases. Environmental
+Science and Pollution Research, 28,19615-19628.
+Bashpa, P., Bijudas, K., Dileep, P., Mehar, S., Silviya, E., &
+Francis, T. (2024). Mechanical and thermal characteriza-
+tion of condom industry waste reinforced natural rubber
+composites: A circular economy approach. Environmen-
+tal Engineering Research, 29(2), 230098.
+Bhaga, T. D., Dube, T., Shekede, M. D., & Shoko, C. (2020).
+Impacts of climate variability and drought on surface
+water resources in sub-Saharan Africa using remote sens-
+ing: A review. Remote Sens.,12, 4184.
+Bhattarai, H., Tai, A. P. K., Val Martin, M., & Yung, D. H.
+Y. (2024). Impacts of changes in climate, land use, and
+必 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 35 of 40 73
+emissions on global ozone air quality by mid-21st cen-
+tury following selected Shared Socioeconomic Pathways.
+Science of the Total Environment, 906, 167759.
+Bilung LM, Tahar AS, Yunos NE, Apun K, Lim YA-L, Nillian
+E, Hashim HF. Detection of cryptosporidium and cyclo-
+spora oocysts from environmental water for drinking and
+recreational activities in Sarawak, Malaysia. BioMed
+Research International 2017;1-9.
+Blanchet, C. C., Arzel,C., Davranche, A., Kahilainen, K. K.,
+Secondi, J., Taipale, S., Lindberg, H., Loehr, J., Man-
+ninen-Johansen, S., Sundell, J., Maanan, M., & Nummi,
+P. (2022). Ecology and extent of freshwater browning
+-what we know and what should be studied next in the
+context of global change. Science of the Total Environ-
+ment, 812, 152420.
+Bouchard, C., Dibernardo, A., Koffi, J., Wood, H., Leighton,
+P., & Lindsay, L. (2019). Increased risk of tick-borne dis-
+eases with climate and environmental changes. Canada
+Communicable Disease Report, 45, 83-89.
+Bradu P, Biswas A, Nair C, Sreevalsakumar S, Patil M, Kan-
+nampuzha S, Mukherjee AG, Wanjari UR, Renu K,
+Vellingiri B, Gopalakrishnan AV. Recent advances in
+green technology and Industrial Revolution 4.0 for a
+sustainable future. Environmental Science and Pollution
+Research 2022.
+Briffa J, Sinagra E, Blundell R. Heavy metal pollution in the
+environment and their toxicological effects on humans.
+Heliyon. 2020;6
+Brule, T., Renan, X., & Colas-Marrufo, T. (2022). Potential
+impact of climate change on fish reproductive phenology:
+A case study in gonochoric and hermaphrodite commer-
+cially important species from the southern Gulf of Mex-
+ico. Fishes., 7,156.
+Chu EW, Karr JR. Environmental impact: concept, conse-
+quences, measurement. Ref. Modul. Life Sci. 2017.
+Chu L.M., Shaefi S., Byrne J.D., Alves de Souza R.W., Otter-
+bein L.E. Carbon monoxide and a change of heart. Redox
+Biol. 2021; 48:102183.
+Crane-Kramer, G., & Buckberry, J. (2023). Changes in health
+with the rise of industry. International Journal of Paleo-
+pathology, 40, 99-102.
+Cui, Q., Huang, Y., Wang, H., & Fang, T. (2019). Diversity and
+abundance of bacterial pathogens in urban rivers impacted
+by domestic sewage. Environmental Pollution, 249, 24-35.
+Cunillera-Montcusi,D., Beklioglu, M., Canedo-Arguelles, M.,
+Jeppesen, E., Ptacnik, R., Amorim, C. A., Arnott, S. E.,
+Berger, S. A., Brucet, S., Dugan, H. A., Gerhard, M.,
+Horvath, Z., Langenheder, S., Nejstgaard, J. C., Reini-
+kainen, M., Striebel, M., Urrutia-Cordero, P., Vad, C. F.,
+Zadereev, E., & Matias, M. (2022). Freshwater salini-
+sation: A research agenda for a saltier world. Trends in
+Ecology & Evolution, 37, 440453.
+D'Amato, G., Chong-Neto, H. J., & Monge Ortega, O. P.
+(2020). The effects of climate change on respiratory
+allergy and asthma induced by pollen and mold allergens.
+Allergy, 75, 2219-2228.
+D'Amato G, Holgate ST, Pawankar R, Ledford DK. Meteoro-
+logical conditions, climate change, new emerging factors,
+and asthma and related allergic disorders. A statement of
+the World Allergy Organization. World Allergy Organ. J.
+2015; 8:25.
+da Costa, J. P., Silva, A. L., Barcelo, D., Rocha-Santos, T., &
+Duarte, A. (2023). Threats to sustainability in face of
+post-pandemic scenarios and the war in Ukraine. Science
+of the Total Environment, 892, 164509.
+Dey, S., & Dhal, G. C. (2019). Materials progress in the con-
+trol of CO and CO2 emission at ambient conditions: An
+overview. Materials Science for Energy Technologies, 2,
+607-623.
+Dorantes-Aranda, J. J. (2023). Harmful algae impacting aquatic
+organisms: Recent field and laboratory observations.
+Toxins (Basel),15, 339.
+Ebi, K. L., Vanos, J., Baldwin, J. W., Bell, J. E., Hondula, D.
+M., Errett, N. A., Hayes, K., Reid, C. E., Saha, S., Spec-
+tor, J., & Berry, P. (2021). Extreme weather and climate
+change: Population health and health system implica-
+tions. Annual Review of Public Health, 42, 293-315.
+Echendu, A. J., Okafor, H. F., & Iyiola, O. (2022). Air pollu-
+tion, climate change and ecosystem health in the Niger
+Delta. Sociology of the Sciences, 11, 525.
+Eckelman MJ, Sherman J. Environmental impacts of the U.S.
+health care system and effects on public health. PLoS
+One 2016;11.
+Edo, G. I., Onoharigho, F. O., Emakpor, G. L., & Akpoghelie,
+P. O. (2022). The physicochemical analysis and health
+benefits of fresh and branded honey produced in Delta
+State Nigeria. Journal of Analytical & Pharmaceutical
+Research, 11, 66-72.
+Edo, G. I., Onoharigho, F. O., Jikah, A. N., Ezekiel, G.
+O., Essaghah, A. E. A., Ekokotu, H. A., Ugbune, U.,
+Oghroro, E. E. A., Emakpor, O. L., Ainyanbhor, I. E.,
+Akpoghelie, P. O., Ojulari, A. E., Okoronkwo, K. A., &
+Owheruo, J. O. (2024a). Evaluation of the physicochemi-
+cal, phytochemical and anti-bacterial potential of Zin-
+giber officinale (ginger). Food Chem. Adv., 4, 100625.
+Edo, G. I., Jikah, A. N., Onoharigho, F. O., Akpoghelie, P.
+O., Agbo, J. J., Ekokotu, H. A., Ugbune, U., Ezekiel, G.
+O., Emakpor, O. L., Oghroro, E. E. A., Ojulari, A. E.,
+Okoronkwo, K. A., Omoruwou, P. E., & Owheruo, J.
+O. (2024b). The ameliorative effects of Vernonia amyg-
+dalina extract on superoxide dismutase and glutathione
+s-transferase on alloxan induced diabetes on male Wistar
+rats. Food Chem. Adv., 4, 100620.
+Edo GI, Samuel PO, Nwachukwu SC. Bioactive Compounds
+and Biological Activities of Tiger Nut (Cyperus esculen-
+tus L.). 2023;1-28.
+Elsayed, A. E. A., Mohamed, M. L., Ahmed, F. S., & Attia, F.
+A.	(2023). Using nano-magnesium oxide/bentonite com-
+posite for cadmium removal from industrial wastewater.
+Environmental Engineering Research, 28(2), 210545.
+Englande, A. J., Krenkel,P., & Shamas, J. (2015). Wastewater
+treatment & water reclamation^. Elsevier.
+Ewuzie U, Aku NO, Nwankpa SU. An appraisal of data col-
+lection, analysis, and reporting adopted for water qual-
+ity assessment: a case of Nigeria water quality research.
+Heliyon. 2021;7
+Ezugwu, C. K., Onwuka, O. S., Egbueri, J. C., Unigwe, C. O.,
+& Ayejoto, D. A. (2019). Multi-criteria approach to water
+quality and health risk assessments in a rural agricultural
+province Southeast Nigeria. Hydroresearch, 2, 40-48.
+Falkenberg, L. J., Bellerby, R. G. J., Connell, S. D., Flem-
+ing, L. E., Maycock, B., Russell, B. D., Sullivan, F. J.,
+必 Springer
+73 Page 36 of 40
+Water Air Soil Pollut (2025) 236:73
+& Dupont, S. (2020). Ocean acidification and human
+health. International Journal of Environmental Research
+and Public Health,17, 4563.
+Fallah Shayan, N., Mohabbati-Kalejahi, N., Alavi, S., & Zahed,
+M. A. (2022). Sustainable development goals (SDGs) as
+a framework for corporate social responsibility (CSR).
+Sustainability.,14,1222.
+Fan, M., Zhang, P.,Wang, C., & Sun, H. (2024). Highly effi-
+cient removal of ionic dyes in aqueous solutions using
+magnetic 3D reduced graphene oxide aerogel supported
+nano zero-valent iron. Environmental Engineering
+Research., 29(1), 230149.
+Faquih, T. O., Landstra, E. N., van Hylckama Vlieg, A., et al.
+(2024). Per- and Polyfluoroalkyl Substances Concentra-
+tions are Associated with an Unfavorable Cardio-Meta-
+bolic Risk Profile: Findings from Two Population-Based
+Cohort Studies. Expo Health. https://doi.org/10.1007/
+s12403-023-00622-4
+Fernandes, J. P., Almeida, C. M. R., Salgado, M. A., Carvalho,
+M.	F., & Mucha, A. P. (2021). Pharmaceutical com-
+pounds in aquatic environments—occurrence, fate and
+bioremediation prospective. Toxics., 9, 257.
+Florentina I, Io B. The effects of air pollutants on vegetation
+and the role of vegetation in reducing atmospheric pol-
+lution. Impact Air Pollut. Heal. Econ. Environ. Agric.
+Sources. InTech; 2011.
+Fu, J., Yao, Y., Huang, Z., et al. (2024). Prenatal Exposure to
+Neonicotinoids and the Associations with Neonatal Birth
+Outcomes and Maternal Health in South China. Expo
+Health. https://doi.org/10.1007/s12403-024-00650-8A
+Gautam, S. P., Silwal, A., Baral,B., Subedi, S., Lamichhane,
+N.	, Chapagain, N. P., & Adhikari, B. (2023). Influence of
+the rainfall and temperature oscillation on air quality in
+Kathmandu valley: The wavelet analysis. Environmental
+Engineering Research., 28(6), 220694.
+Gavrilescu, M. (2021). Water, soil, and plants interactions in a
+threatened environment. Water,13, 2746.
+Georgaki, M.-N., Charalambous, M., Kazakis, N., Talias,
+M. A., Georgakis, C., Papamitsou, T., & Mytiglaki, C.
+(2023). Chromium in water and carcinogenic human
+health risk. Environments,10, 33.
+Ghorani-Azam, A., Riahi-Zanjani, B., & Balali-Mood, M.
+(2016). Effects of air pollution on human health and
+practical measures for prevention in Iran. Journal of
+Research in Medical Sciences: THe Official Journal of
+Isfahan University of Medical Sciences, 21, 65.
+Gour, P., Kumar, J., Arland, S. E., Roy, L. D., & Rahman, N.
+(2024). Green synthesis of DL-homocysteine decorated
+magnetic nanoparticles for selective and efficient mer-
+cury remediation from simulated wastewater: Kinetics,
+isotherm, and mechanism studies. Environmental Engi-
+neering Research., 29(5), 230584.
+Grennfelt, P., Engleryd, A., Forsius, M., Hov, 0., Rodhe, H., &
+Cowling, E. (2020). Acid rain and air pollution: 50 years
+of progress in environmental science and policy. Ambio,
+49, 849-864.
+Gu, Y., Man, J., Su, L., et al. (2023). Impact of Dietary Cad-
+mium Intake from Rice on Renal Function Biomarker
+and Population Toxicokinetic Modelling. Expo Health.
+https://doi.org/10.1007/s12403-023-00615-3
+Harper, A. (2004). Carbon monoxide poisoning: Undetected
+by both patients and their doctors. Age and Ageing, 33,
+105-109.
+Hayasaka, H., Yamazaki, K., & Naito, D. (2019). Weather con-
+ditions and warm air masses during active fire-periods in
+boreal forests. Polar Science, 22, 100472.
+Heo, J., Kim, P., Park, J., & Lee, J. (2025). Source identifica-
+tion of ultrafine particulate matter and ammonia emis-
+sions in the metropolitan area. Environmental Engineer-
+ing Research, 30(1), 240074.
+Howard, I., Okpara, K., & Techato, K. (2021). Toxicity and
+risks assessment of polycyclic aromatic hydrocarbons in
+river bed sediments of an artisanal crude oil refining area
+in the Niger Delta Nigeria. Water, 13, 3295.
+Huggett, R. (2023). Soil as part of the Earth system. Progress
+in Physical Geography: Earth and Environment, 47,
+454-466.
+Hussain, N. T., Jameel, A. A., & Murtadha, I. M. (2024).
+Sources, fate, effects, and analysis of microplastic in
+wastewater treatment plants: A review. Environmental
+Engineering Research., 29(1), 230040.
+Hwabejire HO, Akpoghelie PO, Edo GI, Onoharigho FO,
+Agbo JJ. Microbiological properties, anti-nutritional
+and nutritional composition of spontaneously and starter
+culture fermented malted acha flour. Proceedings of the
+Indian National Science Academy 2023.
+Iruoghene Edo G. Analysis of phytochemical constituents and
+antioxidant potential of bitter Kola leaf extract towards
+bioactive food, nutrition and health resources. Interna-
+tional Journal of Medicinal Chemistry2022;11.
+Ishika, N. (2023). Development of an engineered face mask
+with optimized nanoparticle layering for filtration of air
+pollutants and viral pathogens. Environmental Engineer-
+ing Research., 28(6), 230003.
+Jaishankar, M., Tseten, T., Anbalagan, N., Mathew, B. B., &
+Beeregowda, K. N. (2014). Toxicity, mechanism and
+health effects of some heavy metals. Interdisciplinary
+Toxicology, 7, 60-72.
+Javed A., Aamir F., Gohar U., Mukhtar H., Zia-UI-Haq M.,
+Alotaibi M., Bin-Jumah M., Marc (Vlaic) R., Pop O. The
+potential impact of smog spell on humans' health amid
+COVID-19 rages. International Journal of Environmental
+Research and Public Health 2021; 18:11408.
+Jeong, J. E., Cho, I. A., & Lee, C. Y. (2024). Effect of organic
+additives on NO2 removal in the simultaneous absorp-
+tion of SO2 and NO2 into limestone slurry. Environmen-
+tal Engineering Research., 29(4), 230513.
+Jerin DT, Sara HH, Radia MA, Hema PS, Hasan S, Urme SA,
+Audia C, Hasan MT, Quayyum Z. An overview of pro-
+gress towards implementation of solid waste manage-
+ment policies in Dhaka, Bangladesh. Heliyon. 2022;8
+Jiang, J.-Q., Ashekuzzaman, S., Jiang, A., Sharifuzzaman, S.,
+& Chowdhury, S. (2012). Arsenic contaminated ground-
+water and its treatment options in Bangladesh. Interna-
+tional Journal of Environmental Research and Public
+Health, 10, 18-46.
+Kang, S., Ren, G., Lee, T., & Jo, Y. (2024). Correlation
+between carbonaceous materials and fine particulate mat-
+ters in urban school classrooms. Environmental Engi-
+neering Research, 29(4), 230516.
+必 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 37 of 40 73
+Khalaf E.M., Mohammadi M.J., Sulistiyani S., Ramirez-Cor-
+onel A.A., Kiani F., Jalil A.T., Almulla A.F., Asban P.,
+Farhadi M., Derikondi M. Effects of sulfur dioxide inha-
+lation on human health: a review. Review Environmental
+Health 2022.
+Kim, H., Kim, W. H., Kim, Y. Y., & Park, H. Y. (2020). Air
+pollution and central nervous system disease: A review
+of the impact of fine particulate matter on neurological
+disorders. Frontiers in Public Health, 8, 575330.
+Koutsoyiannis, D. (2021).Rethinking climate, climate change,
+and their relationship with water. Water,13, 849.
+Kumar, A., Bhattacharya, T., Mukherjee, S., & Sarkar, B.
+(2022). A perspective on biochar for repairing damages
+in the soil-plant system caused by climate change-driven
+extreme weather events. Biochar, 4, 22.
+Lalah JO, Otieno PO, Odira Z, Ogunah JA. Pesticides: chem-
+istry, manufacturing, regulation, usage and impacts on
+population in Kenya. Pestic. - Updat. Tox. Risk Assess.
+IntechOpen. 2022.
+Lee F.-Y., Chen W.-K., Lin C.-L., Kao C.-H. Carbon monox-
+ide poisoning and subsequent cardiovascular disease risk.
+Medicine (Baltimore) 2015;94.
+Lin, L., Yang, H., & Xu, X. (2022). Effects of water pollution
+on human health and disease heterogeneity: A review.
+Frontiers in Environmental Science,10, 880246.
+Liu, H., Wang, N., Chen, D., Tan, Q., Song, D., & Huang, F.
+(2022). How photochemically consumed volatile organic
+compounds affect ozone formation: A case study in
+Chengdu. China. Atmosphere (Basel), 13, 1534.
+Liu, M., Huan, H., Li, H., et al. (2024). Quantitative Assess-
+ment and Validation of Groundwater Pollution Risk in
+Southwest Karst Area. Expo Health. https://doi.org/10.
+1007/s12403-024-00647-3
+Maciejczyk P., Chen L.-C., Thurston G. The role of fossil fuel
+combustion metals in PM2.5 air pollution health associa-
+tions. Atmosphere (Basel) 2021; 12:1086.
+Mahajan-Tatpate, P., Dhume, S., Jayakumar, N., Chendake, Y.,
+Chavan, S., Khomane, R., & Wadagaonkar, V. (2024).
+Separation of Cr and Mn by polysulfone (PSF) based
+ultrafiltration (UF) membranes anchored with nanopar-
+ticles - Mathematical analysis of rejection properties.
+Environmental Engineering Research, 29(4), 230543.
+Manikandan, S., & Saraswathi, R. (2023). Electrocoagula-
+tion technique for removing Organic and Inorganic pol-
+lutants (COD) from the various industrial effluents: An
+overview. Environmental Engineering Research, 28(4),
+220-231.
+Marques, P., Piqueras, L., & Sanz, M.-J. (2021). An updated
+overview of e-cigarette impact on human health. Respira-
+tory Research, 22,151.
+Mason, L. H., Harp, J. P., & Han, D. Y. (2014). Pb neurotoxic-
+ity: Neuropsychologica l effects of lead toxicity. BioMed
+Research International, 2014, 1-8.
+Mihalache, O.A., Elliott, C. & Dall'Asta, C. Human Health
+Impact Based on Adult European Consumers' Dietary
+Exposure to Chemical Contaminants and Consump-
+tion of Unprocessed Red Meat, Processed Meat, and
+Legumes. Expo Health (2024). https://doi.org/10.1007/
+s12403-024-00634-8
+Mishra, R. K., Mentha, S. S., Misra, Y., & Dwivedi, N. (2023).
+Emerging pollutants of severe environmental concern in
+water and wastewater: A comprehensive review on cur-
+rent developments and future research. Water-Energy
+Nexus, 6, 74-95.
+Montagnino E, Lytle DA, Rose J, Cwiertny D, Whelton AJ.
+School and childcare center drinking water: copper
+chemistry, health effects, occurrence, and remediation.
+AWWA Water Sci. 2022;4.
+Montes, C. M., Demler, H. J., Li, S., Martin, D. G., & Ains-
+worth, E. A. (2022). Approaches to investigate crop
+responses to ozone pollution: From O3-FACE to
+satellite-enabled modeling. The Plant Journal, 109,
+432-446.
+Morantes, G., Gonzalez, J. C., & Rincon, G. (2021). Charac-
+terisation of particulate matter and identification of emis-
+sion sources in Greater Caracas. Air Quality, Atmosphere
+& Health,14,1989-2014.
+Motlagh, A. M., & Yang, Z. (2019). Detection and occurrence
+of indicator organisms and pathogens. Water Environ-
+ment Research, 91, 1402-1408.
+Mughal BB, Fini J-B, Demeneix BA. Thyroid-disrupting
+chemicals and brain development: an update. Endocrine
+Connection. 2018;7
+Mustafa, S., Long, Y., & Rana, S. (2023). The role of corpo-
+rate social responsibility and government incentives in
+installing industrial wastewater treatment plants: SEM-
+ANN deep learning approach. Science and Reports, 13,
+16529.
+Naidu R., Biswas B., Willett I.R., Cribb J., Kumar Singh B.,
+Nathanail C.P., Coulon F., Semple K.T., Jones K.C., Bar-
+clay A., Aitken R.J. Chemical pollution: A growing peril
+and potential catastrophic risk to humanity. Environment
+International. 2021; 156:106616.
+Narwal, N., Katyal, D., Kataria, N., Rose, P. K., Warkar, S. G.,
+Pugazhendhi, A., Ghotekar, S., & Khoo, K. S. (2023).
+Emerging micropollutants in aquatic ecosystems and
+nanotechnology-based removal alternatives: A review.
+Chemosphere, 341, 139945.
+Ng, N. L., Brown, S. S., Archibald, A. T., Atlas, E., Cohen, R.
+C., Crowley, J. N., Day, D. A., Donahue, N. M., Fry, J.
+L., Fuchs, H., Griffin, R. J., Guzman, M. I., Herrmann,
+H., Hodzic, A., Iinuma, Y., Jimenez, J. L., Kiendler-
+Scharr, A., Lee, B. H., Luecken, D. J.,…Zaveri, R. A.
+(2017). Nitrate radicals and biogenic volatile organic
+compounds: Oxidation, mechanisms, and organic aero-
+sol. Atmospheric Chemistry and Physics,17, 2103-2162.
+Nguyen, V. T., Nguyen, T. B., Vo, T. D. H., Dat, N. D., Vo, T.
+K. Q., Nguyen, X. C., Dinh, V. C., Le, T. N. C., Duong,
+T.	G. H., Bui, M. H., & Bui, X. T. (2024). Preliminary
+study of doxycycline adsorption from aqueous solution
+on alkaline modified biochar derived from banana peel.
+Environmental Engineering Research., 29(3), 230196.
+Nur-E-Alam, M., Mia, M. A. S., Ahmad, F., & Rahman, M. M.
+(2020). An overview of chromium removal techniques
+from tannery effluent. Applied Water Science, 10, 205.
+Omarova, A., Tussupova, K., Berndtsson, R., Kalishev, M., &
+Sharapatova, K. (2018). Protozoan parasites in drinking
+water: A system approach for improved water, sanitation
+and hygiene in developing countries. International Journal
+of Environmental Research and Public Health,15, 495.
+Owheruo JO, Edo GI, Ifesan BO, Bolade MK, Origbemisoye
+BA,	Akpoghelie PO, Agbo JJ. Evaluation of nutraceutical
+必 Springer
+73 Page 38 of 40
+Water Air Soil Pollut (2025) 236:73
+property of extruded breakfast cereal produced from
+blends of malted finger millet (Eleusine coracana) and
+watermelon (Citrullus lanatus) seed flour. Vegetos. 2023.
+Paiczynski, C., Kuprys-Lipinska, I., Wittczak, T., Jassem, E.,
+Breborowicz, A., & Kuna, P. (2018). The position paper
+of the Polish Society of Allergology on climate changes,
+natural disasters and allergy and asthma. Advance Der-
+matology Allergol, 35, 552-562.
+Parvez, F., Chen, Y., Yunus, M., Olopade, C., Segers, S., Slavk-
+ovich, V., Argos, M., Hasan, R., Ahmed, A., Islam, T.,
+Akter, M. M., Graziano, J. H., & Ahsan, H. (2013). Arse-
+nic exposure, impaired lung function, findings from a
+large population-based prospective cohort study. Ameri-
+can Journal of Respiratory and Critical Care Medicine,
+188, 813-819.
+Pasaoglulari Aydinlik N, Abubakar J, Edo G. Phytochemical
+and GCMS analysis on the ethanol extract of Foeniculum
+vulgare and Petroselinum crispum leavesInternational
+Journal of Chemical Technology. 2021.
+Peng, L., & Jia, R. (2023). Exploring the interplay of the physi-
+cal environment and organizational climate in innova-
+tion. Sustainability, 15, 15013.
+Pingali, P. L. (2012). Green revolution: Impacts, limits, and the
+path ahead. Proceedings of the National Academy of Sci-
+ences., 109, 12302-12308.
+Poikane, S., Cantonati, M., Stevens, P. R., Heino, J., Turak, E.,
+Bolpagni, R., Richardson, D. C., Borrini, A., Ctvrtlikova,
+M., Cid, N., Hajek, M., Galassi, D. M. P., Levkov, Z.,
+Hawes, I., Saber, A. A., Naselli-Flores, L., Fiasca, B.,
+Cicco, M. D., Kubecka, J., + + + Segadelli, S. (2020). Char-
+acteristics, main impacts, and stewardship of natural and
+artificial freshwater environments: Consequences for bio-
+diversity conservation. Water,12, 260.
+Renner R. Reaction to the solution: lead exposure following
+partial service line replacement. Environ. Health Per-
+spect. 2010;118.
+Reno A.L., Brooks E.G., Ameredes B.T. Mechanisms of height-
+ened airway sensitivity and responses to inhaled SO2 in
+asthmatics. Environ. Health Insights 2015; 9s1.S15671.
+Richiardi, L., Pignata, C., Fea, E., Bonetta, S., & Carraro, E.
+(2023). Are indicator microorganisms predictive of path-
+ogens in water? Water,15, 2964.
+Ritger, A. L., Curtis, A. N., & Chen, C. Y. (2018). Bioaccu-
+mulation of mercury and other metal contaminants in
+invasive lionfish (Pterois volitans/miles) from Curasao.
+Marine Pollution Bulletin, 131, 38-44.
+Robb F.T., Techtmann S.M. Life on the fringe: microbial adap-
+tation to growth on carbon monoxide. F1000Research
+2018; 7:1981.
+Roberts, W. (2021). Air pollution and skin disorders. Int. J.
+Women's Dermatol., 7, 91-97.
+Roy, A., Mandal, M., Das, S., Kumar, M., Popek, R., Awasthi,
+A., Giri, B. S., Mondal, K. C., & Sarkar, A. (2024). Non-
+exhaust particulate pollution in Asian countries: A com-
+prehensive review of sources, composition, and health
+effects. Environmental Engineering Research, 29(3),
+230384.
+Samuel PO, Edo GI, Oloni GO, Ugbune U, Ezekiel GO, Essa-
+ghah AEA, Agbo JJ. Effects of chemical contaminants on
+the ecology and evolution of organisms: a review. Chem.
+Ecol. 2023;1-37.
+Sandifer, P. A., Sutton-Grier, A. E., & Ward, B. P. (2015).
+Exploring connections among nature, biodiversity, eco-
+system services, and human health and well-being:
+Opportunities to enhance health and biodiversity conser-
+vation. Ecosystem Services, 12, 1-15.
+Saravanan, S., Davis, P. R., & Skariah, T. B. (2024). Sustain-
+able engineered geopolymer composites: A study on the
+potential of fly ash, BOF slag, and iron ore tailings. Envi-
+ronmental Engineering Research, 29(5), 230540.
+Sathya, K., Nagarajan, K., GeorMalar, G. C., Rajalakshmi, S.,
+& Lakshmi, P. R. (2022). A comprehensive review on
+comparison among effluent treatment methods and mod-
+ern methods of treatment of industrial wastewater efflu-
+ent from different sources. Applied Water Science, 12,
+70.
+Saxena, V., Kumar, N., & Nangia, U. (2021a). Smart Grid: A
+Sustainable Smart Approach. Journal of Physics: Con-
+ference Series., 2007, 012042.
+Saxena V, Kumar N, Nangia U, Singh J. Analysis of Smart
+Electricity Grid Framework Unified with Renewably Dis-
+tributed Generation. In: Advances in Smart Communica-
+tion and Imaging Systems. Lecture Notes in Electrical
+Engineering, vol 721. Springer, Singapore; 2021.
+Saxena, V., Kumar, N., & Nangia, U. (2021c). Protagonist of
+renewable energy in distributed generation: A review.
+Revista Tecnologia En Marcha., 34(4), 3-15.
+Saxena, V., Kumar, N., & Nangia, U. (2022a). Recent Trends in
+the Optimization of Renewable Distributed Generation:
+A Review. Ingenieria e Investigacion, 42(3).
+Saxena, V., Kumar, N., & Nangia, U. (2022b). An impact
+assessment of distributed generation in distribution net-
+work. In Artificial Intelligence and Sustainable Comput-
+ing. Algorithms for Intelligent Systems. Springer.
+Saxena, V., Kumar, N., & Nangia, U. (2023). An Extensive
+Data-Based Assessment of Optimization Techniques
+for Distributed Generation Allocation: Conventional to
+Modern. Arch Computat Methods Eng., 30, 675-701.
+Saxena, V., Kumar, N., & Nangia, U. (2024a). Impact Analy-
+sis of Demand Response on the Optimal Placement of
+Solar PV Systems in the Distribution Network. Brazilian
+Archives of Biology and Technology., 67, e24230419.
+Saxena, V., Kumar, N., & Nangia, U. (2024b). Coal power
+plant-enabled grid resilience through distributed energy
+resources and demand response integration. Electrical
+Engineering.
+Saxena, V., Manna, S., Rajput, S. K., et al. (2024c). Sustainable
+energy solutions: Integrating hybrid CCHP systems with
+renewable technologies for efficient urban development.
+Journal of the Brazilian Society of Mechanical Sciences
+and Engineering, 46, 668.
+Saxena, V., Manna, S., Rajput, S. K., Kumar, P., Sharma,
+B., Alsharif, M. H., & Kim, M. K. (2024d). Navigat-
+ing the complexities of distributed generation: Integra-
+tion, challenges, and solutions. Energy Reports, 12,
+3302-3322.
+Schraufnagel, D. E. (2020). The health effects of ultrafine parti-
+cles. Experimental & Molecular Medicine, 52, 311-317.
+Schwartz, H., Marushka, L., Chan, H. M., Batal, M., Sadik,
+T., Ing, A., Fediuk, K., & Tikhonov, C. (2021). Pharma-
+ceuticals in source waters of 95 First Nations in Canada.
+Canadian Journal of Public Health, 112, 133-153.
+必 Springer
+Water Air Soil Pollut (2025) 236:73
+Page 39 of 40 73
+Schwarzenbach, R. P” Escher, B. I., Fenner, K., Hofstetter, T.
+B., Johnson, C. A., von Gunten, U., & Wehrli, B. (2006).
+The challenge of micropollutants in aquatic systems. Sci-
+ence, 313, 1072-1077.
+Sellami, A., & Elleuch, R. (2024). Green composite friction
+materials: A review of a new generation of eco-friendly
+brake materials for sustainability. Environmental Engi-
+neering Research., 29(3), 230226.
+Semenza JC, Ebi KL. Climate change impact on migration,
+travel, travel destinations and the tourism industry. Jour-
+nal of Travel Medicine 2019;26.
+Seo, J., Rho, P., & Bae, H. K. (2023). Estimations for water
+quality factors of Kumho River, South Korea, using
+remote sensing technology. Environmental Engineering
+Research., 28(5), 220368.
+Shaji, E., Santosh, M., Sarath, K. V., Prakash, P., Deepchand,
+V., & Divya, B. V. (2021). Arsenic contamination of
+groundwater: A global synopsis with focus on the Indian
+peninsula. Geoscience Frontiers, 12, 101079.
+Sharma, S., Ahtesham, B., Muhammad, J., Lee, H., Juyeol, L.,
+Choonsoo, P., & Duckshin, P. (2024). Improvement of
+indoor air quality using a smart gate that can lessen viral
+aerosol (MS2 virus) and particulate matter (PM): Experi-
+mental findings. Environmental Engineering Research.,
+29(2), 230269.
+Sheoran, K., Siwal,S. S., Kapoor, D., Singh, N., Saini, A. K.,
+Alsanie, W. F., & Thakur, V. K. (2022). Air pollutants
+removal using biofiltration technique: A challenge at the
+frontiers of sustainable environment. ACS Eng. Au., 2,
+378-396.
+Shi, C., Yan, B., Zuo, X., Wang, C., Li, Z., & Zhu, L. (2023).
+The effect of aeration mode on the operational effective-
+ness and membrane bioreactors for greywater treatment
+and membrane fouling. Environmental Engineering
+Research, 28(2), 210637.
+Shi, Y., Wang, Y., Zhang, X., et al. (2024). Areal Health Risk
+Assessment Using Soil Bioaccessible Heavy Metal(loid)
+s Around Industrial Area in Nanjing. Southeast China.
+Expo Health. https://doi.org/10.1007/s 12403-024-00643
+Siddiqua, A., Hahladakis, J. N., & Al-Attiya, W. A. K. A.
+(2022). An overview of the environmental pollution
+and health effects associated with waste landfilling and
+open dumping. Environmental Science and Pollution
+Research., 29, 58514-58536.
+Silva, J. A. (2023). Wastewater treatment and reuse for sustain-
+able water resources management: A systematic litera-
+ture review. Sustainability,15,10940.
+Singh MK, Saxena V. Voltage Conditioning and Harmonic
+Mitigation Using UPQC: A Review. In: Innovations
+in Cyber Physical Systems. Lecture Notes in Electrical
+Engineering, vol 788. Springer, Singapore; 2021.
+Skendzic, S., Zovko, M., Zivkovic, I. P., Lesic, V., & Lemic,
+D. (2021). The impact of climate change on agricultural
+insect pests. Insects., 12, 440.
+Solomon, E. T., Gari, S. R., Kloos, H., & Alemu, B. M. (2021).
+Handwashing effect on diarrheal incidence in children
+under 5 years old in rural eastern Ethiopia: A cluster ran-
+domized controlled trial. Tropical Medicine & Interna-
+tional Health, 49, 26.
+Sorensen, C., Saunik, S., Sehgal, M., Tewary, A., Govindan,
+M., Lemery, J., & Balbus, J. (2018). Climate change and
+women's health: Impacts and opportunities in India. Geo-
+Health, 2, 283-297.
+Southerland VA, Brauer M, Mohegh A, Hammer MS, van
+Donkelaar A, Martin RV, Apte JS, Anenberg SC. Global
+urban temporal trends in fine particulate matter (PM2-5)
+and attributable health burdens: estimates from global
+datasets. Lancet Planet. Heal. 2022;6-e146.
+Srivastava, S., & Roy, T. (2023). Integrated flood risk assess-
+ment of properties and associated population at county
+scale for Nebraska. USA. Sci. Rep.,13,19702.
+Srivastava, S., Kumar, N., Malakar, A., Das Choudhury, S.,
+Ray, C., & Roy, T. (2024). A machine learning-based
+probabilistic approach for irrigation scheduling. Water
+Resour. Manag., 38(5), 1639-1653.
+Srivastava S, Basche A, Traylor E, Roy T. The efficacy of con-
+servation practices in reducing floods and improving
+water quality. Front. Environ. Sci. 2023; 11.
+Steinmaus, C. M. (2016). Perchlorate in water supplies:
+Sources, exposures, and health effects. Current Environ-
+mental Health Reports, 3, 136-143.
+Syafrudin, M., Kristanti, R. A., Yuniarto, A., Hadibarata, T.,
+Rhee, J., Al-onazi, W. A., Algarni, T. S., Almarri, A. H.,
+& Al-Mohaimeed, A. M. (2021). Pesticides in drinking
+water一a review. International Journal of Environmental
+Research and Public Health,18, 468.
+Syeed, M. M. M., Hossain, M. S., Karim, M. R., Uddin, M. F.,
+Hasan, M., & Khan, R. H. (2023). Surface water quality
+profiling using the water quality index, pollution index
+and statistical methods: A critical review. Environ. Sus-
+tain. Indic., 18, 100247.
+Tudi, M., Ruan, H. D., Wang, L., Lyu, J., Sadler, R., Connell,
+D., Chu, C., & Phung, D. T. (2021). Agriculture develop-
+ment, pesticide application and its impact on the environ-
+ment. International Journal of Environmental Research
+and Public Health, 18, 1112.
+Tumolo, M., Ancona, V., De Paola, D., Losacco, D., Campanale,
+C., Massarelli, C., & Uricchio, V. F. (2020). Chromium
+pollution in European water, sources, health risk, and
+remediation strategies: An overview. International Journal
+of Environmental Research and Public Health,17, 5438.
+Ugbune, U., Avwenaghegha, J. O., & Edo, G. I. (2023). Geo-
+chemical distribution and ecological risk level of inor-
+ganic pollutant of River Ethiope sediment. Dutse Journal
+of Pure and Applied Sciences, 9, 187-193.
+Upadhyay, R. K. (2020). Markers for global climate change
+and its impact on social, biological and ecological sys-
+tems: A review. American Journal of Climate Change, 9,
+159-203.
+Vardoulakis, S., Dimitroulopoulou, C., Thornes, J., Lai, K.-M.,
+Taylor, J., Myers, I., Heaviside, C., Mavrogianni, A.,
+Shrubsole, C., Chalabi, Z., Davies, M., & Wilkinson, P.
+(2015). Impact of climate change on the domestic indoor
+environment and associated health risks in the UK. Envi-
+ronment International, 85, 299-313.
+Waite T., Murray V., Baker D. Carbon monoxide poisoning and
+flooding: changes in risk before, during and after flood-
+ing require appropriate public health interventions. PLoS
+Curr. 2014..
+Wallington, T. J., Anderson, J. E., Dolan, R. H., & Winkler,
+S. L. (2022). Vehicle emissions and urban air quality: 60
+years of progress. Atmosphere (Basel),13, 650.
+必 Springer
+73 Page 40 of 40
+Water Air Soil Pollut (2025) 236:73
+Wang, Y., & Qian, H. (2021).Phthalates and their impacts on
+human health. Healthcare., 9, 603.
+Wang, M., Janssen, A. B. G., Bazin, J., Strokal,M., Ma, L., &
+Kroeze, C. (2022). Accounting for interactions between
+sustainable development goals is essential for water pol-
+lution control in China. Nature Communications,13,
+730.
+Wang, H., Dai, J., Chen, H., Wang, F., Zhu, Y., Liu, J., Zhou,
+B., & Yuan, R. (2023). Adsorption of phosphate by Mg/
+Fe-doped wheat straw biochars optimized using response
+surface methodology: Mechanisms and application in
+domestic sewage. Environmental Engineering Research.,
+28(2), 210602.
+Wani, A. L., Ara, A., & Usmani, J. A. (2015). Lead toxicity: A
+review. Interdisciplinary Toxicology, 8, 55-64.
+Ward, M., Jones, R., Brender, J., de Kok, T., Weyer, P., Nolan,
+B., Villanueva, C., & van Breda, S. (2018). Drinking
+water nitrate and human health: An updated review.
+International Journal of Environmental Research and
+Public Health,15,1557.
+Wasielak-Politowska, M., & Kordowitzki, P. (2022). Chromo-
+some segregation in the oocyte: What goes wrong during
+aging. International Journal of Molecular Sciences, 23,
+2880.
+Wei, X., Cai, S., Ni, P., & Zhan, W. (2020). Impacts of climate
+change and human activities on the water discharge and
+sediment load of the Pearl River, southern China. Science
+and Reports,10,16743.
+Weiland-Brauer, N. (2021). Friends or foes—microbial interac-
+tions in nature. Biology (Basel).,10, 496.
+White, B. P., Breakey, S., Brown, M. J., Smith, J. R., Tarbet, A.,
+Nicholas, P. K., & Ros, A. M. V. (2023). Mental health
+impacts of climate change among vulnerable populations
+globally: An integrative review. Annals of Global Health,
+89, 66.
+Wikel, S. K. (2022). Changing geographic ranges of human
+biting ticks and implications for tick-borne zoonoses in
+North America. Zoonotic Diseases, 2, 126-146.
+Wroblewska, K., & Jeong, B. R. (2021). Effectiveness of plants
+and green infrastructure utilization in ambient particulate
+matter removal. Environmental Sciences Europe, 33, 110.
+Xiaoju, L., Chuah, A. L., Shafreeza, S., Md, S. M. S., Hus-
+sain, S. A., Aun, T. P., & Jinzhao, H. (2024). Variation
+characteristics and coordinated emission reduction of air
+pollutants in megacity of Chengdu-Chongqing economic
+circle under dual carbon goal. Environmental Engineer-
+ing Research., 29(4), 230475.
+Xie, Y., Liu, X., Wei, H., Chen, X., Gong, N., Ahmad, S., Lee,
+T., Ismail, S., & Ni, S. Q. (2022). Insight into impact of
+sewage discharge on microbial dynamics and pathogenic-
+ity in river ecosystem. Science and Reports,12, 6894.
+Yang, Z., Long, Y., Yang, X., Liu, J., & Zhu, G. (2024a). Prep-
+aration and application of polymeric silicate coagulant:
+A short review. Environmental Engineering Research,
+29(5), 230672.
+Yang, K., Hong, X., Wang, X., Zhu, Y., Zuo, P., & Gao, G.
+(2024b). Characteristics and risk assessment of atmos-
+pheric PM2.5 heavy metals pollution near coal gangue
+sites in Huaibei, China. Environmental Engineering
+Research, 29(5), 230720-0.
+Zazouli MA, Asghari S, Tarrahi R, Lisar SYS, Babanezhad E,
+Dashtban N. The potential of common duckweed (Lemna
+minor) in phytoremediation of phenanthrene and pyrene.
+Environmental Engineering Research. 2023; 28(1):
+Zendehbad, M., Mostaghelchi, M., Mojganfar, M., Cepuder,
+P., & Loiskandl, W. (2022). Nitrate in groundwater and
+agricultural products: Intake and risk assessment in
+northeastern Iran. Environmental Science and Pollution
+Research, 29, 78603-78619.
+Zhang, Y., Yang, F., Wang, Y., Zheng, Y., & Zhu, J. (2023).
+Effects of acid rain stress on the physiological and bio-
+chemical characteristics of three plant species. Forests,
+14,1067.
+Zhang, Y., Li, L., Song, B., et al. (2024). Comprehensive
+Risk Assessment of Heavy Metals Based on Pollu-
+tion Sources: A Case Study for Agricultural Soils from
+Southwest China. Expo Health. https://doi.org/10.1007/
+s12403-024-00642
+Publisher's Note Springer Nature remains neutral with regard
+to jurisdictional claims in published maps and institutional
+affiliations.
+Springer Nature or its licensor (e.g. a society or other partner)
+holds exclusive rights to this article under a publishing
+agreement with the author(s) or other rightsholder(s); author
+self-archiving of the accepted manuscript version of this article
+is solely governed by the terms of such publishing agreement
+and applicable law.
+必 Springer
